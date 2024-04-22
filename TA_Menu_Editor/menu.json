@@ -1,0 +1,699 @@
+[
+  {
+    "id": "sections",
+    "sections": [
+      {
+        "name": "Пельмени и вареники",
+        "items": [
+          {
+            "id": "31",
+            "name": "Классические пельмени",
+            "description": "Пельмени с мясом – традиционное блюдо.",
+            "price": 1300,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://arigus.tv/upload/resize_cache/iblock/3b2/680_680_1/yr85idltllgw1hfsgmbqf8dbfhde515n.jpg"
+          },
+          {
+            "id": "32",
+            "name": "Пельмени говядина/телятина",
+            "description": "Пельмени с сочным мясом говядины и телятины.",
+            "price": 1400,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://vegafood.ru/upload/iblock/a01/fb7inmrw777jtl4vjo5isjpkjz8r18in.png"
+          },
+          {
+            "id": "33",
+            "name": "Пельмени Радуга",
+            "description": "Пельмени из разноцветного теста.",
+            "price": 1400,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "data:image/jpeg;base64,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"
+          },
+          {
+            "id": "34",
+            "name": "Пельмени куриные",
+            "description": "Нежные куриные пельмени – вкусное угощение.",
+            "price": 1200,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://static.1000.menu/img/content-v2/39/50/24891/pelmeni-s-kurinym-farshem_1617703822_17_max.jpg"
+          },
+          {
+            "id": "35",
+            "name": "Вареники с картошкой",
+            "description": "Вареники с картошкой – традиционное украинское блюдо.",
+            "price": 1000,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://ferma-m2.ru/images/shop/recipe_image/crop__4_20.jpg"
+          },
+          {
+            "id": "36",
+            "name": "Вареники с картошкой и грибами",
+            "description": "Вареники с картошкой и ароматными грибами.",
+            "price": 1200,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://zernograd.com/wp-content/uploads/2017/06/vareniki-s-kartoshkoj-i-lukom-russian-dumplings-1300x1300.jpg"
+          },
+          {
+            "id": "37",
+            "name": "Вареники с капустой",
+            "description": "Вареники с капустой – отличный выбор для вегетарианцев.",
+            "price": 1200,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://media.ovkuse.ru/images/recipes/9b7108c2-da92-42c3-917d-b3f9463ac088/9b7108c2-da92-42c3-917d-b3f9463ac088.jpg"
+          },
+          {
+            "id": "38",
+            "name": "Вареники с творогом",
+            "description": "Вареники с нежным творогом – сладкое угощение.",
+            "price": 1000,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://img.iamcook.ru/2022/upl/recipes/cat/u-f178e7444e2d99e9d221c9e1e9328194.JPG"
+          },
+          {
+            "id": "39",
+            "name": "Вареники с черникой",
+            "description": "Вареники с черникой – летнее угощение.",
+            "price": 1500,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://img.delo-vcusa.ru/2019/01/Vareniki-s-tvorogom-na-vode.jpg"
+          },
+          {
+            "id": "40",
+            "name": "Вареники с вишней, голубикой, клубникой",
+            "description": "Вареники с ассортиментом ягод – нежное лакомство.",
+            "price": 1000,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://static.vkusnyblog.com/full/uploads/2008/07/pyshnye-vareniki-s-vishnei-new-8.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Первые и вторые блюда",
+        "items": [
+          {
+            "id": "g7meFq6oc9rrBBPbfIPea",
+            "name": "Солянка мясная",
+            "description": "Солянка мясная - это богатое и насыщенное блюдо, приготовленное на основе разнообразного мясного ассортимента, а также овощей и специй. ",
+            "price": "700",
+            "promoPrice": "",
+            "portionSize": "0.5л",
+            "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707680728/04b3ccc2a69cfafbb299a7cc31e52c3f_whmrcm.jpg",
+            "availability": ""
+          },
+          {
+            "id": "W7m62mRfaVlN4UtIGt3Sb",
+            "name": "Гороховый суп",
+            "description": "Гороховый суп с копченым мясом - это изысканное сочетание нежного гороха с ароматным копченым мясом, которое придает блюду глубокий и насыщенный вкус. ",
+            "price": "500",
+            "promoPrice": "",
+            "portionSize": "0.5л",
+            "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707680857/goroxovyi-sup-s-bekonom_1567193001_3_max_dik1ot.jpg",
+            "availability": ""
+          },
+          {
+            "id": "25",
+            "name": "Борщ",
+            "description": "Традиционный украинский борщ с овощами и мясом.",
+            "price": 500,
+            "promoPrice": "",
+            "portionSize": " 0,5л",
+            "photo": "https://images.unian.net/photos/2022_09/thumb_files/1200_0_1662892107-3846.jpg"
+          },
+          {
+            "id": "26",
+            "name": "Окрошка",
+            "description": "Освежающая окрошка с квасом и свежими овощами.",
+            "price": 500,
+            "promoPrice": "",
+            "portionSize": "0.5л",
+            "photo": "https://zira.uz/wp-content/uploads/2018/05/okroschka-1.jpg"
+          },
+          {
+            "id": "27",
+            "name": "Фаршированный перец",
+            "description": "Ароматный фаршированный перец с нежной начинкой.",
+            "price": 1700,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://menunedeli.ru/wp-content/uploads/2022/06/Farshirovannyj-perec-recept-klassicheskij-500%D1%85350.jpg-1200x800.jpg"
+          },
+          {
+            "id": "28",
+            "name": "Голубцы",
+            "description": "Пикантные голубцы с мясной начинкой.",
+            "price": 1700,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://images.unian.net/photos/2020_07/thumb_files/800_0_1594844831-9010.jpg?r=151092"
+          },
+          {
+            "id": "29",
+            "name": "Хинкали",
+            "description": "Изысканные хинкали с сочной начинкой.",
+            "price": 1800,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://thumb.tildacdn.com/tild3235-6365-4561-b863-616662646138/-/format/webp/noroot.jpg"
+          },
+          {
+            "id": "30",
+            "name": "Манты",
+            "description": "Пышные манты с нежным мясом.",
+            "price": 1800,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://i.obozrevatel.com/food/recipemain/2019/1/9/125.jpg?size=636x424"
+          }
+        ]
+      },
+      {
+        "name": "Котлеты и зразы",
+        "items": [
+          {
+            "id": "1",
+            "name": "Котлеты Классические",
+            "description": "Нежные котлеты, приготовленные по классическому рецепту.",
+            "price": 1800,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707337948/zharenie-kotleti_ryx8eh.jpg"
+          },
+          {
+            "id": "V7HCG47nWHvn6Cp9RaPkd",
+            "name": "Котлеты из телятины",
+            "description": "Нежная котлета из натурального телячьего мяса, обжаренная до золотистой корочки.",
+            "price": "2000",
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707679503/kotlety-iz-telyatiny_1576690799_22_max_rmd0i5.jpg",
+            "availability": ""
+          },
+          {
+            "id": "2",
+            "name": "Котлеты куриные",
+            "description": "Сочные куриные котлеты с нежным мясом.",
+            "price": "1200",
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707337966/9546c6265c8a48ab2b609f11b21865e3-1000x1000_g1ez3p.jpg"
+          },
+          {
+            "id": "3",
+            "name": "Котлеты куриные с грибами",
+            "description": "Котлеты с добавлением ароматных грибов для особого вкуса.",
+            "price": 1300,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707338017/kotlety-iz-svininy-s-xlebom_1560391671_1_max_yx6u6r.jpg"
+          },
+          {
+            "id": "4",
+            "name": "Котлеты куриные с сыром",
+            "description": "Котлеты с сыром, создающим неповторимый вкус.",
+            "price": 1300,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707338039/kotleti_s_sirom_rokki-478985_rhudbk.jpg"
+          },
+          {
+            "id": "5",
+            "name": "Котлеты по-киевски",
+            "description": "Традиционные котлеты по-киевски с нежным начинкой.",
+            "price": 1800,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707338055/po-kievsky-kotlety-601x601_brltaj.jpg"
+          },
+          {
+            "id": "bVog3lr8_723q9nwsPioV",
+            "name": "Котлеты из индейки",
+            "description": "Сочные котлеты из нежного мяса индейки",
+            "price": "2000",
+            "promoPrice": "",
+            "portionSize": "1кг",
+            "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707478089/6b90b599-1040-48a6-a27c-a5ac6e8e1d4c_oupyaa.jpg"
+          },
+          {
+            "id": "6",
+            "name": "Котлеты рыбные",
+            "description": "Легкие и вкусные котлеты из свежей рыбы.",
+            "price": "2000",
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707338066/rybnye-kotlety-v-multivarke_1432405680_1_max_tgnatd.jpg"
+          },
+          {
+            "id": "7",
+            "name": "Зразы с капустой",
+            "description": "Сочные зразы с капустой, приготовленные с любовью.",
+            "price": "1000",
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707338166/zrazy1_szfssm.jpg"
+          },
+          {
+            "id": "8",
+            "name": "Зразы с грибами",
+            "description": "Ароматные зразы с грибами – отличный выбор для гурманов.",
+            "price": "1000",
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707339006/zrazy2_v1tyfi.jpg"
+          },
+          {
+            "id": "9",
+            "name": "Зразы с мясом",
+            "description": "Сочные зразы с нежным мясом, которые растопят ваше сердце.",
+            "price": "1000",
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707338195/zrazy3_d19ax3.jpg"
+          },
+          {
+            "id": "GXl8TuraQDrP2AaVVWTQc",
+            "name": "Зразы с курицей и грибами",
+            "description": "Зразы с нежной курицей и ароматными грибами.",
+            "price": "1200",
+            "promoPrice": "",
+            "portionSize": "1 кг",
+            "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707478383/rice-mushroom-chicken-cutlets_racyxm.jpg",
+            "availability": ""
+          }
+        ]
+      },
+      {
+        "name": "Салаты и закуски",
+        "items": [
+          {
+            "id": "10",
+            "name": "Печеночный торт",
+            "description": "Легкий и вкусный печеночный торт с изысканным вкусом.",
+            "price": 1000,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://www.chefmarket.ru/blog/wp-content/uploads/2018/05/3_1523539571_087fb.jpg"
+          },
+          {
+            "id": "11",
+            "name": "Оливье",
+            "description": "Традиционный салат Оливье с нежными кусочками мяса и овощей.",
+            "price": 1000,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://vkusvill.ru/upload/resize/596634/596634_1200x99999x70.webp"
+          },
+          {
+            "id": "12",
+            "name": "Винегрет",
+            "description": "Легкий и освежающий винегрет с овощами и кисло-сладким вкусом.",
+            "price": 1000,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://img.povar.ru/mobile/a4/05/3a/0d/klassicheskii_vinegret-756206.JPG"
+          },
+          {
+            "id": "13",
+            "name": "Холодец куриный",
+            "description": "Ароматный куриный холодец, приготовленный по домашнему рецепту.",
+            "price": 1200,
+            "promoPrice": "",
+            "portionSize": "Литр",
+            "photo": "https://cdn.meta.ua/meta_news/ec/01000u9o-ec96_1280x720.jpeg"
+          },
+          {
+            "id": "14",
+            "name": "Холодец свиной",
+            "description": "Традиционный свиной холодец – настоящая домашняя вкуснятина.",
+            "price": 1400,
+            "promoPrice": "",
+            "portionSize": "Литр",
+            "photo": "https://img.povar.ru/mobile/40/10/1a/60/vkusnii_holodec_iz_svinini-243764.jpg"
+          },
+          {
+            "id": "15",
+            "name": "Бастурма куриная",
+            "description": "Пикантная куриная бастурма с оригинальным вкусом.",
+            "price": 1800,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://www.recepty.com.ua/wp-content/uploads/2019/11/%D0%91%D0%B0%D1%81%D1%82%D1%83%D1%80%D0%BC%D0%B0-%D0%BA%D1%83%D1%80%D0%B8%D0%BD%D0%B0%D1%8F.png"
+          },
+          {
+            "id": "16",
+            "name": "Сало",
+            "description": "Нежное сало с ароматными специями. Режем любой вес.",
+            "price": "2000",
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://aif-s3.aif.ru/images/015/819/e8e2a94949d1a88c72873dedd3ad8d06.jpg"
+          },
+          {
+            "id": "17",
+            "name": "Селедка",
+            "description": "Селедка норвежская, атлантическая",
+            "price": "1600",
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://ss.sport-express.ru/userfiles/materials/174/1748556/volga.jpg"
+          },
+          {
+            "id": "18",
+            "name": "Гречка",
+            "description": "Паровая гречка – полезное и вкусное блюдо.",
+            "price": 1000,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://cdn.iz.ru/sites/default/files/styles/900x506/public/news-2022-11/20050314_gaf_rp29_042.jpg?itok=8fe8qQMO"
+          },
+          {
+            "id": "19",
+            "name": "Хрен",
+            "description": "Острый хрен, придающий блюдам особый вкус и аромат.",
+            "price": 300,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://images.gastronom.ru/iMxBY74QvLLJmwPTgcWqZQNqi18-lifPd9eN8jNXJOs/pr:product-cover-image/g:ce/rs:auto:0:0:0/L2Ntcy9hbGwtaW1hZ2VzLzFiNTIxYjdkLWUwYWItNGY0ZS04NjA3LTYyZDc5YTk4MjllMy5qcGc"
+          },
+          {
+            "id": "20",
+            "name": "Горчица",
+            "description": "Традиционная горчица, подчеркивающая вкус мясных блюд.",
+            "price": 300,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://static.1000.menu/img/content-v2/12/08/22358/gorchica-iz-poroshka-bystro_1620383187_10_max.jpg"
+          },
+          {
+            "id": "7lwqXmAyJovgtMajJ5pxL",
+            "name": "Печеночный паштет",
+            "description": "Питательный и полезный печеночный паштет, богатый белком и витаминами, является идеальным выбором для тех, кто заботится о своем здоровье и хочет насладиться вкусом без ущерба для организма.",
+            "price": "600",
+            "promoPrice": "",
+            "portionSize": "500г",
+            "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707681059/14899712_d5zmh9.jpg",
+            "availability": ""
+          }
+        ]
+      },
+      {
+        "name": "Разносолы",
+        "items": [
+          {
+            "id": "21",
+            "name": "Капуста квашеная",
+            "description": "Аппетитная капуста, квашеная по домашнему рецепту.",
+            "price": 400,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://www.patee.ru/r/x6/15/39/30/960m.jpg"
+          },
+          {
+            "id": "22",
+            "name": "Морковь по-корейски",
+            "description": "Остро-сладкая морковь по-корейски – вкусное угощение.",
+            "price": 500,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://img.delo-vcusa.ru/2017/10/Morkov-po-koreiski-v-domashnih-uslovijah.jpg"
+          },
+          {
+            "id": "DeDHXhTYTJ5WXW5fmLCRs",
+            "name": "Огурцы бочковые",
+            "description": "Квашенные",
+            "price": "500",
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707679948/ffb2c3c551fbcf6f8ad147d74eaa9ff7_x49jug.jpg",
+            "availability": ""
+          }
+        ]
+      },
+      {
+        "name": "Чебуреки",
+        "items": [
+          {
+            "id": "23",
+            "name": "С мясом",
+            "description": "Сочные чебуреки с мясной начинкой.",
+            "price": 1000,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://img.povar.ru/mobile/e5/20/fd/c5/chebureki_s_myasom_i_sirom-655076.jpg"
+          },
+          {
+            "id": "24",
+            "name": "С сыром",
+            "description": "Аппетитные чебуреки с сыром и зеленью.",
+            "price": 1200,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://img.postershop.me/3160/Products/1033849_1569918752.7221_original.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Блины",
+        "items": [
+          {
+            "id": "41",
+            "name": "Блины с мясом",
+            "description": "Аппетитные блины с сочным мясом.",
+            "price": 1500,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://www.patee.ru/r/x6/19/da/42/960m.jpg"
+          },
+          {
+            "id": "42",
+            "name": "Блины с картошкой и грибами",
+            "description": "Блины с картошкой и ароматными грибами.",
+            "price": 1200,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://rutxt.ru/files/8518/final/7d3ad258da.JPG"
+          },
+          {
+            "id": "43",
+            "name": "Блины с грибами",
+            "description": "Блины с грибами – настоящий гастрономический праздник.",
+            "price": 1300,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://static.1000.menu/img/content/30246/bliny-farshirovannye-gribami_1544396782_1_max.jpg"
+          },
+          {
+            "id": "44",
+            "name": "Блины с потрошками",
+            "description": "Блины с ароматными потрошками – необычное угощение.",
+            "price": 1000,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://img.iamcook.ru/2018/upl/recipes/cat/u-75436604aa2c08e9b4440d7ecd0c4e21.jpg"
+          },
+          {
+            "id": "45",
+            "name": "Блины с творогом",
+            "description": "Блины с нежным творогом – сладкое и ароматное лакомство.",
+            "price": 1000,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://img.iamcook.ru/2021/upl/recipes/cat/u-1cd85a3ebf3937b326b51a3870582298.JPG"
+          },
+          {
+            "id": "46",
+            "name": "Блины с творогом и черникой",
+            "description": "Блины с творогом и черникой – легкое и полезное угощение.",
+            "price": 1500,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://ju-jul.ru/wp-content/uploads/2013/03/Nachinka-dlya-blinov-iz-tvoroga-s-chernikoj.jpg"
+          },
+          {
+            "id": "47",
+            "name": "Блины с творогом и клубникой",
+            "description": "Блины с творогом и клубникой – вкусное сочетание.",
+            "price": 1000,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://i.ytimg.com/vi/8IY73HeFfOg/maxresdefault.jpg"
+          },
+          {
+            "id": "48",
+            "name": "Блины с творогом и вишней",
+            "description": "Блины с творогом и вишней – нежное угощение.",
+            "price": 1000,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://img.povar.ru/mobile/f1/b6/ff/03/blini_s_tvorogom_vishnei_klubnichnim_i_vanilnim_sousom-482522.JPG"
+          },
+          {
+            "id": "49",
+            "name": "Блины с творогом и изюмом",
+            "description": "Блины с творогом и изюмом – сладкое лакомство.",
+            "price": 1200,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://panianka.com.ua/wp-content/uploads/2021/02/34.jpg"
+          },
+          {
+            "id": "50",
+            "name": "Блины с маком",
+            "description": "Блины с ароматным маком, изюмом и апельсиновой цедрой – традиционное угощение.",
+            "price": "1500",
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://images.unian.net/photos/2021_03/thumb_files/400_0_1614862108-4661.jpg?0.4966036294850116"
+          },
+          {
+            "id": "51",
+            "name": "Блины с вишней",
+            "description": "Блины с вишней – сладкое лакомство.",
+            "price": 1200,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://morkva.info/wp-content/uploads/2019/03/sponge_crepes_web2-595x394.jpg"
+          },
+          {
+            "id": "52",
+            "name": "Блины яблочные",
+            "description": "Блины с ароматными яблоками – легкое и вкусное угощение.",
+            "price": 800,
+            "promoPrice": "",
+            "portionSize": "20 шт",
+            "photo": "https://kulinarenok.ru/img/img_recept/23950/bliny-s-yablokami.jpg"
+          },
+          {
+            "id": "53",
+            "name": "Блины с карамельными яблоками",
+            "description": "Блины с карамельными яблоками – сладкое удовольствие.",
+            "price": 1000,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://img.vkusvill.ru/pim/images/site_LargeWebP/c43134fd-192b-442b-ad03-ea9133fb5ed5.webp?1670444561.0612"
+          },
+          {
+            "id": "54",
+            "name": "Блины с клубникой в заварном креме",
+            "description": "Блины с клубникой в заварном креме – легкое десертное угощение.",
+            "price": 1000,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://i.ytimg.com/vi/iurzwgLYYec/maxresdefault.jpg"
+          },
+          {
+            "id": "55",
+            "name": "Блины с вишней в заварном креме",
+            "description": "Блины с вишней в заварном креме – нежный десерт для сладкого настроения.",
+            "price": 1000,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://www.ermolino-produkty.ru/picts/news/1000%D1%85750_%D0%B1%D0%BB%D0%B8%D0%BD%D1%86%D1%8B_%D0%B2%D0%B8%D1%88%D0%BD%D1%8F.jpg"
+          },
+          {
+            "id": "mBMYYW9llfM2D3ucdFnUw",
+            "name": "Блины с сыром и ветчиной",
+            "description": "Шпинатные блины с сыром и сочной ветчиной",
+            "price": "1500",
+            "promoPrice": "",
+            "portionSize": "1 кг",
+            "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707477926/b45709de-f17f-438e-82f1-076519e589d9_wqygty.jpg",
+            "availability": ""
+          },
+          {
+            "id": "F4aI8iVsXqBuGeMTEwjEd",
+            "name": "Блины с курицей и грибами",
+            "description": "Нежные блины, начиненные сочным фаршем из куриного мяса и ароматных грибов.",
+            "price": "1200",
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707680580/bliny-s-kuritsiei-i-ghribami-zhiulien-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%B5-%D1%84%D0%BE%D1%82%D0%BE-%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D0%B0_moxcke.jpg",
+            "availability": ""
+          }
+        ]
+      },
+      {
+        "name": "Сырники и пирожки",
+        "items": [
+          {
+            "id": "56",
+            "name": "Сырники классические",
+            "description": "Сырники с нежным творогом – легкое и полезное угощение.",
+            "price": 1000,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://yummybook.ru/cloud/images/recipe/item/8531/image_middle_41235c9de8f4ac99253852912_53852912.jpg"
+          },
+          {
+            "id": "57",
+            "name": "Сырники с изюмом",
+            "description": "Сырники с изюмом – сладкое лакомство для настоящих гурманов.",
+            "price": 1200,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://cdn.vkuso.ru/uploads/u21988_615cf14d2c3ff4883c71af2e0855334e-660x440.jpg"
+          },
+          {
+            "id": "58",
+            "name": "Пирожок с капустой",
+            "description": "Ароматный пирожок с капустой – отличное лакомство.",
+            "price": 80,
+            "promoPrice": "",
+            "portionSize": "1 шт",
+            "photo": "https://vkusno-i-prosto.ru/wp-content/uploads/2011/09/pirozhki-s-kapustoj.JPG"
+          },
+          {
+            "id": "59",
+            "name": "Пирожок с картошкой",
+            "description": "Пирожок с картошкой – вкусное и насыщенное блюдо.",
+            "price": 60,
+            "promoPrice": "",
+            "portionSize": "1 шт",
+            "photo": "https://img3.zakaz.ua/upload.f4fda7cc587791d673fc4d718a280aa4.350x350.jpg"
+          },
+          {
+            "id": "037jzSwpC9A7MLQRvCY0-",
+            "name": "Пирожок с мясом",
+            "description": "Пирожок с ароматным мясным фаршем.",
+            "price": "80",
+            "promoPrice": "",
+            "portionSize": "шт",
+            "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707680060/p_O_axo1nh.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Магазин",
+        "items": [
+          {
+            "id": "23",
+            "name": "С мясом",
+            "description": "Сочные чебуреки с мясной начинкой.",
+            "price": "1100",
+            "promoPrice": "1000",
+            "portionSize": "кг",
+            "photo": "https://img.povar.ru/mobile/e5/20/fd/c5/chebureki_s_myasom_i_sirom-655076.jpg"
+          },
+          {
+            "id": "24",
+            "name": "С сыром",
+            "description": "Аппетитные чебуреки с сыром и зеленью.",
+            "price": 1200,
+            "promoPrice": "",
+            "portionSize": "кг",
+            "photo": "https://img.postershop.me/3160/Products/1033849_1569918752.7221_original.jpg"
+          }
+        ]
+      }
+    ]
+  }
+]

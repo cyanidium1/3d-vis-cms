@@ -1,0 +1,517 @@
+{
+    "sections": [
+        {
+            "name": "Первые блюда",
+            "items": [
+                {
+                    "id": 1,
+                    "name": "Борщ",
+                    "description": "Традиционный украинский суп с свеклой, картошкой и мясом.",
+                    "price": 150,
+                    "portionSize": "стандарт",
+                    "photo": "https://example.com/borscht.jpg",
+                    "availability": "в наличии"
+                },
+                {
+                    "id": 2,
+                    "name": "Солянка",
+                    "description": "Плотный мясной суп с оливками и лимоном.",
+                    "price": 180,
+                    "portionSize": "стандарт",
+                    "photo": "https://example.com/solyanka.jpg",
+                    "availability": "в наличии"
+                },
+                {
+                    "id": 3,
+                    "name": "Грибной суп",
+                    "description": "Ароматный суп с разнообразными грибами.",
+                    "price": 160,
+                    "portionSize": "стандарт",
+                    "photo": "https://example.com/mushroom_soup.jpg",
+                    "availability": "в наличии"
+                },
+                {
+                    "id": 4,
+                    "name": "Уха",
+                    "description": "Рыбный суп с разнообразной рыбой и овощами.",
+                    "price": 200,
+                    "portionSize": "стандарт",
+                    "photo": "https://example.com/fish_soup.jpg",
+                    "availability": "в наличии"
+                }
+            ]
+        },
+        {
+            "name": "Вторые блюда",
+            "items": [
+                {
+                    "id": 5,
+                    "name": "Котлета по-киевски",
+                    "description": "Сочная куриная котлета с тертым сыром внутри.",
+                    "price": 220,
+                    "portionSize": "стандарт",
+                    "photo": "https://example.com/kyiv_cutlet.jpg",
+                    "availability": "в наличии",
+                    "promoPrice": 200
+                },
+                {
+                    "id": 6,
+                    "name": "Голубцы",
+                    "description": "Капустные рулеты, начиненные фаршем и приготовленные в томатном соусе.",
+                    "price": 190,
+                    "portionSize": "стандарт",
+                    "photo": "https://example.com/holubtsi.jpg",
+                    "availability": "в наличии"
+                },
+                {
+                    "id": 7,
+                    "name": "Картошка по-деревенски",
+                    "description": "Картошка, жареная до золотистой корки, с ароматными специями.",
+                    "price": 120,
+                    "portionSize": "стандарт",
+                    "photo": "https://example.com/fried_potatoes.jpg",
+                    "availability": "в наличии",
+                    "promoPrice": 100
+                },
+                {
+                    "id": 8,
+                    "name": "Свиные ребрышки",
+                    "description": "Медленно запеченные свиные ребрышки с карамельным соусом.",
+                    "price": 250,
+                    "portionSize": "стандарт",
+                    "photo": "https://example.com/pork_ribs.jpg",
+                    "availability": "в наличии"
+                }
+            ]
+        },
+        {
+            "name": "Вареники",
+            "items": [
+                {
+                    "id": 9,
+                    "name": "Вареники с картошкой",
+                    "description": "Традиционные вареники с картошкой и луком.",
+                    "price": 130,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/potato_vareniki.jpg",
+                    "availability": "в наличии"
+                },
+                {
+                    "id": 10,
+                    "name": "Вареники с творогом",
+                    "description": "Нежные вареники с творогом и ванильным сахаром.",
+                    "price": 140,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/cheese_vareniki.jpg",
+                    "availability": "в наличии"
+                },
+                {
+                    "id": 11,
+                    "name": "Вареники с вишней",
+                    "description": "Сладкие вареники с сочной вишней.",
+                    "price": 150,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/cherry_vareniki.jpg",
+                    "availability": "в наличии"
+                },
+                {
+                    "id": 11,
+                    "name": "Вареники с вишней",
+                    "description": "Сладкие вареники с сочной вишней.",
+                    "price": 150,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/cherry_vareniki.jpg",
+                    "availability": "в наличии"
+                }
+            ]
+        },
+        {
+            "name": "Сырники и пирожки",
+            "items": [
+                {
+                    "id": 12,
+                    "name": "Сырники",
+                    "description": "Мягкие творожные оладьи с джемом и сметаной.",
+                    "price": 160,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/syrniki.jpg",
+                    "availability": "в наличии"
+                },
+                {
+                    "id": 13,
+                    "name": "Пирожки с капустой",
+                    "description": "Пышные пирожки с капустой и луком.",
+                    "price": 130,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/cabbage_pirozhki.jpg",
+                    "availability": "в наличии"
+                },
+                {
+                    "id": 11,
+                    "name": "Вареники с вишней",
+                    "description": "Сладкие вареники с сочной вишней.",
+                    "price": 150,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/cherry_vareniki.jpg",
+                    "availability": "в наличии"
+                },
+                {
+                    "id": 11,
+                    "name": "Вареники с вишней",
+                    "description": "Сладкие вареники с сочной вишней.",
+                    "price": 150,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/cherry_vareniki.jpg",
+                    "availability": "в наличии"
+                }
+            ]
+        },
+        {
+            "name": "Зразы",
+            "items": [
+                {
+                    "id": 14,
+                    "name": "Зразы с грибами",
+                    "description": "Картофельные зразы с грибной начинкой.",
+                    "price": 180,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/mushroom_zrazy.jpg",
+                    "availability": "в наличии"
+                },
+                {
+                    "id": 15,
+                    "name": "Зразы с мясом",
+                    "description": "Картофельные зразы с начинкой из мяса.",
+                    "price": 200,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/meat_zrazy.jpg",
+                    "availability": "в наличии"
+                },
+                {
+                    "id": 11,
+                    "name": "Вареники с вишней",
+                    "description": "Сладкие вареники с сочной вишней.",
+                    "price": 150,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/cherry_vareniki.jpg",
+                    "availability": "в наличии"
+                },
+                {
+                    "id": 11,
+                    "name": "Вареники с вишней",
+                    "description": "Сладкие вареники с сочной вишней.",
+                    "price": 150,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/cherry_vareniki.jpg",
+                    "availability": "в наличии"
+                }
+            ]
+        },
+        {
+            "name": "Разносолы",
+            "items": [
+                {
+                    "id": 16,
+                    "name": "Селедка под шубой",
+                    "description": "Слоеный салат с селедкой, свеклой, картошкой, майонезом и горошком.",
+                    "price": 170,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/herring_under_fur_coat.jpg",
+                    "availability": "в наличии"
+                },
+                {
+                    "id": 17,
+                    "name": "Огурцы маринованные",
+                    "description": "Традиционные маринованные огурцы с укропом и чесноком.",
+                    "price": 120,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/pickled_cucumbers.jpg",
+                    "availability": "в наличии"
+                },
+                {
+                    "id": 11,
+                    "name": "Вареники с вишней",
+                    "description": "Сладкие вареники с сочной вишней.",
+                    "price": 150,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/cherry_vareniki.jpg",
+                    "availability": "в наличии"
+                },
+                {
+                    "id": 11,
+                    "name": "Вареники с вишней",
+                    "description": "Сладкие вареники с сочной вишней.",
+                    "price": 150,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/cherry_vareniki.jpg",
+                    "availability": "в наличии"
+                },
+                {
+                    "id": 11,
+                    "name": "Вареники с вишней",
+                    "description": "Сладкие вареники с сочной вишней.",
+                    "price": 150,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/cherry_vareniki.jpg",
+                    "availability": "в наличии"
+                }
+            ]
+        },
+        {
+            "name": "Пельмени",
+            "items": [
+                {
+                    "id": 18,
+                    "name": "Пельмени с мясом",
+                    "description": "Традиционные пельмени с начинкой из говядины и свинины.",
+                    "price": 160,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/meat_dumplings.jpg",
+                    "availability": "в наличии"
+                },
+                {
+                    "id": 19,
+                    "name": "Пельмени с картошкой",
+                    "description": "Пельмени с картошкой и луком.",
+                    "price": 140,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/potato_dumplings.jpg",
+                    "availability": "в наличии",
+                    "promoPrice": 120
+                },
+                {
+                    "id": 11,
+                    "name": "Вареники с вишней",
+                    "description": "Сладкие вареники с сочной вишней.",
+                    "price": 150,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/cherry_vareniki.jpg",
+                    "availability": "в наличии"
+                },
+                {
+                    "id": 11,
+                    "name": "Вареники с вишней",
+                    "description": "Сладкие вареники с сочной вишней.",
+                    "price": 150,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/cherry_vareniki.jpg",
+                    "availability": "в наличии"
+                },
+                {
+                    "id": 11,
+                    "name": "Вареники с вишней",
+                    "description": "Сладкие вареники с сочной вишней.",
+                    "price": 150,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/cherry_vareniki.jpg",
+                    "availability": "в наличии"
+                },
+                {
+                    "id": 11,
+                    "name": "Вареники с вишней",
+                    "description": "Сладкие вареники с сочной вишней.",
+                    "price": 150,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/cherry_vareniki.jpg",
+                    "availability": "в наличии"
+                }
+            ]
+        },
+        {
+            "name": "Блины",
+            "items": [
+                {
+                    "id": 20,
+                    "name": "Блины с медом",
+                    "description": "Пышные блины, подается с натуральным медом.",
+                    "price": 100,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/pancakes_with_honey.jpg",
+                    "availability": "в наличии"
+                },
+                {
+                    "id": 21,
+                    "name": "Блины с вареньем",
+                    "description": "Блины с клубничным вареньем.",
+                    "price": 120,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/pancakes_with_jam.jpg",
+                    "availability": "в наличии"
+                },
+                {
+                    "id": 11,
+                    "name": "Вареники с вишней",
+                    "description": "Сладкие вареники с сочной вишней.",
+                    "price": 150,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/cherry_vareniki.jpg",
+                    "availability": "в наличии"
+                },
+                {
+                    "id": 11,
+                    "name": "Вареники с вишней",
+                    "description": "Сладкие вареники с сочной вишней.",
+                    "price": 150,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/cherry_vareniki.jpg",
+                    "availability": "в наличии"
+                },
+                {
+                    "id": 11,
+                    "name": "Вареники с вишней",
+                    "description": "Сладкие вареники с сочной вишней.",
+                    "price": 150,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/cherry_vareniki.jpg",
+                    "availability": "в наличии"
+                },
+                {
+                    "id": 11,
+                    "name": "Вареники с вишней",
+                    "description": "Сладкие вареники с сочной вишней.",
+                    "price": 150,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/cherry_vareniki.jpg",
+                    "availability": "в наличии"
+                },
+                {
+                    "id": 11,
+                    "name": "Вареники с вишней",
+                    "description": "Сладкие вареники с сочной вишней.",
+                    "price": 150,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/cherry_vareniki.jpg",
+                    "availability": "в наличии"
+                }
+            ]
+        },
+        {
+            "name": "Котлеты",
+            "items": [
+                {
+                    "id": 22,
+                    "name": "Куриные котлеты",
+                    "description": "Куриные котлеты с травами и специями.",
+                    "price": 180,
+                    "portionSize": "стандарт",
+                    "photo": "https://example.com/chicken_cutlets.jpg",
+                    "availability": "в наличии"
+                },
+                {
+                    "id": 23,
+                    "name": "Свиные котлеты",
+                    "description": "Свиные котлеты с грибным соусом.",
+                    "price": 200,
+                    "portionSize": "стандарт",
+                    "photo": "https://example.com/pork_cutlets.jpg",
+                    "availability": "в наличии",
+                    "promoPrice": 180
+                },
+                {
+                    "id": 11,
+                    "name": "Вареники с вишней",
+                    "description": "Сладкие вареники с сочной вишней.",
+                    "price": 150,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/cherry_vareniki.jpg",
+                    "availability": "в наличии"
+                },
+                {
+                    "id": 11,
+                    "name": "Вареники с вишней",
+                    "description": "Сладкие вареники с сочной вишней.",
+                    "price": 150,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/cherry_vareniki.jpg",
+                    "availability": "в наличии"
+                },
+                {
+                    "id": 11,
+                    "name": "Вареники с вишней",
+                    "description": "Сладкие вареники с сочной вишней.",
+                    "price": 150,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/cherry_vareniki.jpg",
+                    "availability": "в наличии"
+                },
+                {
+                    "id": 11,
+                    "name": "Вареники с вишней",
+                    "description": "Сладкие вареники с сочной вишней.",
+                    "price": 150,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/cherry_vareniki.jpg",
+                    "availability": "в наличии"
+                },
+                {
+                    "id": 11,
+                    "name": "Вареники с вишней",
+                    "description": "Сладкие вареники с сочной вишней.",
+                    "price": 150,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/cherry_vareniki.jpg",
+                    "availability": "в наличии"
+                }
+            ]
+        },
+        {
+            "name": "Салаты",
+            "items": [
+                {
+                    "id": 24,
+                    "name": "Салат 'Оливье'",
+                    "description": "Традиционный салат с картошкой, морковью, горошком, майонезом и колбасой.",
+                    "price": 140,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/olivier_salad.jpg",
+                    "availability": "в наличии"
+                },
+                {
+                    "id": 25,
+                    "name": "Салат 'Цезарь'",
+                    "description": "Классический салат с курицей, сыром, крутонами и соусом Цезарь.",
+                    "price": 160,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/caesar_salad.jpg",
+                    "availability": "в наличии"
+                },
+                {
+                    "id": 11,
+                    "name": "Вареники с вишней",
+                    "description": "Сладкие вареники с сочной вишней.",
+                    "price": 150,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/cherry_vareniki.jpg",
+                    "availability": "в наличии"
+                },
+                {
+                    "id": 11,
+                    "name": "Вареники с вишней",
+                    "description": "Сладкие вареники с сочной вишней.",
+                    "price": 150,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/cherry_vareniki.jpg",
+                    "availability": "в наличии"
+                },
+                {
+                    "id": 11,
+                    "name": "Вареники с вишней",
+                    "description": "Сладкие вареники с сочной вишней.",
+                    "price": 150,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/cherry_vareniki.jpg",
+                    "availability": "в наличии"
+                },
+                {
+                    "id": 11,
+                    "name": "Вареники с вишней",
+                    "description": "Сладкие вареники с сочной вишней.",
+                    "price": 150,
+                    "portionSize": "порция",
+                    "photo": "https://example.com/cherry_vareniki.jpg",
+                    "availability": "в наличии"
+                }
+            ]
+        }
+    ]
+}

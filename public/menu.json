@@ -1,0 +1,2158 @@
+{
+  "id": "sections",
+  "sections": [
+    {
+      "name": "Новинки",
+      "items": [
+        {
+          "id": "31",
+          "name": "Заправка TOРЧИН для борща",
+          "description": "Готовая Заправка для вкусного борща / на 3 литра",
+          "price": "300",
+          "promoPrice": "",
+          "portionSize": "л",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1710179516/000173-510x510_bks02d.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Пельмени и вареники",
+      "items": [
+        {
+          "id": "31",
+          "name": "Классические пельмени домашние",
+          "description": "домашние Пельмени с классической начинкой - мясом свинины и телятины",
+          "price": 1300,
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708523623/20230808_161334000_iOS_cavjoc.jpg"
+        },
+        {
+          "id": "32",
+          "name": "Пельмени телятина  домашние",
+          "description": "домашние Пельмени с нежным мясом телятины.",
+          "price": 1400,
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708523546/20230808_161521000_iOS_ou0crv.jpg"
+        },
+        {
+          "id": "33",
+          "name": "Пельмени Радуга",
+          "description": "домашние Пельмени для детей из разноцветного теста.",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "data:image/jpeg;base64,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"
+        },
+        {
+          "id": "34",
+          "name": "Пельмени куриные домашние",
+          "description": "домашние пельмени – из куриной грудки ",
+          "price": 1200,
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://static.1000.menu/img/content-v2/39/50/24891/pelmeni-s-kurinym-farshem_1617703822_17_max.jpg"
+        },
+        {
+          "id": "35",
+          "name": "Вареники с картошкой и грибами домашние",
+          "description": "Вареники с картошкой – традиционное украинское блюдо. ",
+          "price": "1200",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708524589/20231207_173022991_iOS_koe44u.jpg"
+        },
+        {
+          "id": "36",
+          "name": "Вареники с картошкой домашние",
+          "description": "Вареники с очень вкусной картошкой .",
+          "price": "1000",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://zernograd.com/wp-content/uploads/2017/06/vareniki-s-kartoshkoj-i-lukom-russian-dumplings-1300x1300.jpg"
+        },
+        {
+          "id": "37",
+          "name": "Вареники с капустой",
+          "description": "Вареники с капустой – отличный выбор для вегетарианцев.",
+          "price": 1200,
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707948832/OIP_2_q9rwht.jpg"
+        },
+        {
+          "id": "38",
+          "name": "Вареники с творогом домашние",
+          "description": "домашние Вареники с нежным сладким творогом ",
+          "price": 1000,
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707948931/OIP_3_fuxinw.jpg"
+        },
+        {
+          "id": "39",
+          "name": "Вареники с черникой , голубикой",
+          "description": "Вареники с черникой или голубикой  – лучшее летнее угощение.",
+          "price": 1500,
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://img.delo-vcusa.ru/2019/01/Vareniki-s-tvorogom-na-vode.jpg"
+        },
+        {
+          "id": "40",
+          "name": "Вареники с вишней домашние",
+          "description": "Вареники с ассортиментом ягод – нежное лакомство.",
+          "price": 1000,
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://static.vkusnyblog.com/full/uploads/2008/07/pyshnye-vareniki-s-vishnei-new-8.jpg"
+        },
+        {
+          "id": "9xGDBPMDKOxTlQ91XO3lB",
+          "name": "Гедзе",
+          "description": "японские пельмени",
+          "price": "1800",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707944646/20231102_060550000_iOS_niqrj2.jpg",
+          "availability": ""
+        },
+        {
+          "id": "XWhKB-0Bq3d8m3GsgIjpf",
+          "name": "Вареники с клубникой домашние",
+          "description": "свежая ароматная клубника в нежном заварном тесте",
+          "price": "1000",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708411368/vareniki-klubnika_jgyhxn.jpg",
+          "availability": ""
+        },
+        {
+          "id": "temGljrGWrtzEsepusecp",
+          "name": "вареники с соленым творогом",
+          "description": "домашний творог",
+          "price": "900",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708523258/20231007_195057000_iOS_e3a301.jpg"
+        },
+        {
+          "id": "ymQiEB-k0Ayo1XmsgHe1s",
+          "name": "Хинкали домашние",
+          "description": "очень сочные внутри с домашним фаршем",
+          "price": "1800",
+          "promoPrice": "1500",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1710060374/hinkali_u2ppmw.jpg",
+          "availability": ""
+        }
+      ]
+    },
+    {
+      "name": "Первые и вторые блюда",
+      "items": [
+        {
+          "id": "g7meFq6oc9rrBBPbfIPea",
+          "name": "Солянка мясная",
+          "description": "Солянка мясная - это богатое и насыщенное блюдо, приготовленное на основе разнообразного мясного ассортимента, а также овощей и специй. ",
+          "price": "700",
+          "promoPrice": "",
+          "portionSize": "0.5л",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707680728/04b3ccc2a69cfafbb299a7cc31e52c3f_whmrcm.jpg",
+          "availability": ""
+        },
+        {
+          "id": "W7m62mRfaVlN4UtIGt3Sb",
+          "name": "Гороховый суп",
+          "description": "Гороховый суп с копченым мясом - это изысканное сочетание нежного гороха с ароматным копченым мясом, которое придает блюду глубокий и насыщенный вкус. ",
+          "price": "500",
+          "promoPrice": "",
+          "portionSize": "0.5л",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707680857/goroxovyi-sup-s-bekonom_1567193001_3_max_dik1ot.jpg",
+          "availability": ""
+        },
+        {
+          "id": "25",
+          "name": "Борщ",
+          "description": "Традиционный украинский борщ с овощами и мясом.",
+          "price": 500,
+          "promoPrice": "",
+          "portionSize": " 0,5л",
+          "photo": "https://images.unian.net/photos/2022_09/thumb_files/1200_0_1662892107-3846.jpg"
+        },
+        {
+          "id": "26",
+          "name": "Окрошка",
+          "description": "Освежающая окрошка с квасом и свежими овощами.",
+          "price": 500,
+          "promoPrice": "",
+          "portionSize": "0.5л",
+          "photo": "https://zira.uz/wp-content/uploads/2018/05/okroschka-1.jpg"
+        },
+        {
+          "id": "27",
+          "name": "Фаршированный перец",
+          "description": "Ароматный фаршированный перец с нежной мясной начинкой.",
+          "price": "1800",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708271452/20230802_161004000_iOS_yjmcbe.jpg"
+        },
+        {
+          "id": "28",
+          "name": "Голубцы",
+          "description": "Пикантные голубцы с мясной начинкой.",
+          "price": 1700,
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709288807/Opera-Snimok_2019-02-12_140623_avatars.mds_.yandex.net_-800x470_fivcil.png"
+        },
+        {
+          "id": "29",
+          "name": "Хинкали с кинзой домашние",
+          "description": "Изысканные хинкали с сочной начинкой.",
+          "price": 1800,
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://thumb.tildacdn.com/tild3235-6365-4561-b863-616662646138/-/format/webp/noroot.jpg"
+        },
+        {
+          "id": "30",
+          "name": "Манты домашние",
+          "description": "Пышные манты с бульоном и вкусным мясом.",
+          "price": 1800,
+          "promoPrice": "1500",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707901694/20240213_103359000_iOS_a6j1ws.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Котлеты и зразы",
+      "items": [
+        {
+          "id": "1",
+          "name": "Котлеты Классические",
+          "description": "Нежные котлеты, приготовленные по классическому рецепту.",
+          "price": 1800,
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707337948/zharenie-kotleti_ryx8eh.jpg"
+        },
+        {
+          "id": "V7HCG47nWHvn6Cp9RaPkd",
+          "name": "Котлеты из телятины",
+          "description": "Нежная котлета из натурального телячьего мяса, обжаренная до золотистой корочки.",
+          "price": "2000",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707679503/kotlety-iz-telyatiny_1576690799_22_max_rmd0i5.jpg",
+          "availability": ""
+        },
+        {
+          "id": "2",
+          "name": "Котлеты куриные",
+          "description": "Сочные куриные котлеты с нежным мясом.",
+          "price": "1200",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707337966/9546c6265c8a48ab2b609f11b21865e3-1000x1000_g1ez3p.jpg"
+        },
+        {
+          "id": "3",
+          "name": "Котлеты куриные с грибами",
+          "description": "Котлеты с добавлением ароматных грибов для особого вкуса.",
+          "price": 1300,
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707338017/kotlety-iz-svininy-s-xlebom_1560391671_1_max_yx6u6r.jpg"
+        },
+        {
+          "id": "4",
+          "name": "Котлеты куриные с сыром",
+          "description": "Котлеты с сыром, создающим неповторимый вкус.",
+          "price": 1300,
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707338039/kotleti_s_sirom_rokki-478985_rhudbk.jpg"
+        },
+        {
+          "id": "5",
+          "name": "Котлеты по-киевски",
+          "description": "Традиционные котлеты по-киевски с нежным начинкой.",
+          "price": 1800,
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707338055/po-kievsky-kotlety-601x601_brltaj.jpg"
+        },
+        {
+          "id": "bVog3lr8_723q9nwsPioV",
+          "name": "Котлеты из индейки",
+          "description": "Сочные котлеты из нежного мяса индейки",
+          "price": "2000",
+          "promoPrice": "",
+          "portionSize": "1кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707478089/6b90b599-1040-48a6-a27c-a5ac6e8e1d4c_oupyaa.jpg"
+        },
+        {
+          "id": "6",
+          "name": "Котлеты рыбные",
+          "description": "Легкие и вкусные котлеты из свежей рыбы.",
+          "price": "2000",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707338066/rybnye-kotlety-v-multivarke_1432405680_1_max_tgnatd.jpg"
+        },
+        {
+          "id": "7",
+          "name": "Зразы с капустой",
+          "description": "Сочные зразы с капустой, приготовленные с любовью.",
+          "price": "1000",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707338166/zrazy1_szfssm.jpg"
+        },
+        {
+          "id": "8",
+          "name": "Зразы с грибами",
+          "description": "Ароматные зразы с грибами – отличный выбор для гурманов.",
+          "price": "1000",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707339006/zrazy2_v1tyfi.jpg"
+        },
+        {
+          "id": "9",
+          "name": "Зразы с мясом",
+          "description": "Сочные зразы с нежным мясом, которые растопят ваше сердце.",
+          "price": "1000",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707338195/zrazy3_d19ax3.jpg"
+        },
+        {
+          "id": "GXl8TuraQDrP2AaVVWTQc",
+          "name": "Зразы с курицей и грибами",
+          "description": "Зразы с нежной курицей и ароматными грибами.",
+          "price": "1200",
+          "promoPrice": "",
+          "portionSize": "1 кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707478383/rice-mushroom-chicken-cutlets_racyxm.jpg",
+          "availability": ""
+        }
+      ]
+    },
+    {
+      "name": "Салаты и закуски",
+      "items": [
+        {
+          "id": "10",
+          "name": "Печеночный торт",
+          "description": "Легкий и вкусный печеночный торт из нежной куриной печени, моркови и пассированного лука в сливочном соусе",
+          "price": "150",
+          "promoPrice": "",
+          "portionSize": "100 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707988577/OIP_4_efrvgc.jpg"
+        },
+        {
+          "id": "11",
+          "name": "Оливье",
+          "description": "Традиционный салат Оливье с колбасой и овощами.",
+          "price": 1000,
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707988931/%D8%B3%D8%A7%D9%84%D8%A7%D8%AF-%D8%A7%D9%84%D9%88%DB%8C%D9%87-800x491_bbjn28.jpg"
+        },
+        {
+          "id": "12",
+          "name": "Винегрет",
+          "description": "Легкий овощной винегрет с фасолью и квашеной капустой, заправленый оливковым маслом.",
+          "price": 1000,
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707989044/maxresdefault_knwek5.jpg"
+        },
+        {
+          "id": "13",
+          "name": "Холодец куриный",
+          "description": "Куриный холодец, приготовленный по домашнему рецепту.",
+          "price": 1200,
+          "promoPrice": "",
+          "portionSize": "Литр",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707988848/Kholodets_2436388c_lxjwnb.jpg"
+        },
+        {
+          "id": "14",
+          "name": "Холодец свиной",
+          "description": "Традиционный свиной холодец уваренный на свиных ножках",
+          "price": 1400,
+          "promoPrice": "",
+          "portionSize": "Литр",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707988674/OIP_5_gtdxzi.jpg"
+        },
+        {
+          "id": "15",
+          "name": "Бастурма куриная",
+          "description": "Пикантная куриная бастурма с оригинальным вкусом.",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://www.recepty.com.ua/wp-content/uploads/2019/11/%D0%91%D0%B0%D1%81%D1%82%D1%83%D1%80%D0%BC%D0%B0-%D0%BA%D1%83%D1%80%D0%B8%D0%BD%D0%B0%D1%8F.png"
+        },
+        {
+          "id": "16",
+          "name": "Сало Украинское с мясом к борщу",
+          "description": "Нежное соленое сало с мясной прослойкой. Режем любой вес.",
+          "price": "200",
+          "promoPrice": "",
+          "portionSize": "100 г",
+          "photo": "https://aif-s3.aif.ru/images/015/819/e8e2a94949d1a88c72873dedd3ad8d06.jpg"
+        },
+        {
+          "id": "17",
+          "name": "Сельдь Норвежская",
+          "description": "Селедка - целая норвежская рыбка (атлантическая)",
+          "price": "800",
+          "promoPrice": "",
+          "portionSize": "шт",
+          "photo": "https://ss.sport-express.ru/userfiles/materials/174/1748556/volga.jpg"
+        },
+        {
+          "id": "18",
+          "name": "Гречка Украинская, весовая",
+          "description": " гречка фасованная .",
+          "price": "900",
+          "promoPrice": "",
+          "portionSize": " кг",
+          "photo": "https://cdn.iz.ru/sites/default/files/styles/900x506/public/news-2022-11/20050314_gaf_rp29_042.jpg?itok=8fe8qQMO"
+        },
+        {
+          "id": "19",
+          "name": "Хрен",
+          "description": "Острый хрен, придающий блюдам особый вкус и аромат. ",
+          "price": "400",
+          "promoPrice": "",
+          "portionSize": "200 г",
+          "photo": "https://images.gastronom.ru/iMxBY74QvLLJmwPTgcWqZQNqi18-lifPd9eN8jNXJOs/pr:product-cover-image/g:ce/rs:auto:0:0:0/L2Ntcy9hbGwtaW1hZ2VzLzFiNTIxYjdkLWUwYWItNGY0ZS04NjA3LTYyZDc5YTk4MjllMy5qcGc"
+        },
+        {
+          "id": "20",
+          "name": "Горчица",
+          "description": "Традиционная горчица, подчеркивающая вкус мясных блюд.",
+          "price": "400",
+          "promoPrice": "",
+          "portionSize": "150 г",
+          "photo": "https://static.1000.menu/img/content-v2/12/08/22358/gorchica-iz-poroshka-bystro_1620383187_10_max.jpg"
+        },
+        {
+          "id": "7lwqXmAyJovgtMajJ5pxL",
+          "name": "Печеночный паштет, домашний",
+          "description": "Питательный и полезный печеночный паштет, богатый белком и витаминами, является идеальным выбором для тех, кто заботится о своем здоровье и хочет насладиться вкусом без ущерба для организма.",
+          "price": "600",
+          "promoPrice": "",
+          "portionSize": "500г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708270388/20231129_172452000_iOS_tdw1r5.jpg"
+        },
+        {
+          "id": "pxs5gkbBZFSALFS1mstgr",
+          "name": "салат ,,Мимоза ,,",
+          "description": "салат из овощей с тунцом ",
+          "price": "1200",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707988458/traditional-russian-salad-mimosa-selective-focus-92476355_vw7znd.webp"
+        },
+        {
+          "id": "mHlM_xPEphgBsIWHSmYf7",
+          "name": "салат ,, Сельдь под шубой,,",
+          "description": "овощной салат с малосольным филе селедки",
+          "price": "1500",
+          "promoPrice": "",
+          "portionSize": "1100 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707988355/pesce-ed-insalata-delle-barbabietole-58155360_dk8fwd.webp",
+          "availability": ""
+        },
+        {
+          "id": "21",
+          "name": "Капуста квашеная (без сахара)",
+          "description": "капуста, квашеная по домашнему рецепту: соль, хрен, перец горошек, лавровый лист",
+          "price": "600",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708424995/20231110_131417000_iOS_igbfpe.jpg"
+        },
+        {
+          "id": "22",
+          "name": "Морковь по-корейски",
+          "description": "Остро-сладкая морковь по-корейски ",
+          "price": "700",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://img.delo-vcusa.ru/2017/10/Morkov-po-koreiski-v-domashnih-uslovijah.jpg"
+        },
+        {
+          "id": "DeDHXhTYTJ5WXW5fmLCRs",
+          "name": "Огурцы бочковые",
+          "description": "Квашенные",
+          "price": "600",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707679948/ffb2c3c551fbcf6f8ad147d74eaa9ff7_x49jug.jpg"
+        },
+        {
+          "id": "LEUyw1J-H0rC0HuLHowod",
+          "name": "Жюльен с курицей и грибами",
+          "description": "домашний Жюльен из куриной грудки и шампиньонами в сливочной заливке",
+          "price": "800",
+          "promoPrice": "",
+          "portionSize": "400 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708270040/20231120_193749000_iOS_cpquke.jpg",
+          "availability": ""
+        },
+        {
+          "id": "MJnlU96CzDxsRj0ubliBh",
+          "name": "помидоры бочковые, зеленые",
+          "description": "бочковые помидоры на закуску",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709459121/000451_lkkpbu.jpg",
+          "availability": ""
+        },
+        {
+          "id": "Qli2dJr7sqFMrGr36lDRC",
+          "name": "Seaweed Salad 150gr Chucka",
+          "description": "Seaweed Salad 150gr Chucka",
+          "price": "300",
+          "promoPrice": "",
+          "portionSize": "150 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709459299/026001_s4wy37.jpg",
+          "availability": ""
+        },
+        {
+          "id": "EUh1upIy-aCMua9Gz2K-z",
+          "name": "Seaweed 150gr Santa Bremor",
+          "description": "Seaweed 150gr Santa Bremor",
+          "price": "300",
+          "promoPrice": "",
+          "portionSize": "150 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709459397/025847_mfbb77.jpg",
+          "availability": ""
+        }
+      ]
+    },
+    {
+      "name": "Блины и сырники",
+      "items": [
+        {
+          "id": "56",
+          "name": "Сырники классические",
+          "description": "Сырники с нежным творогом – легкое и полезное угощение.",
+          "price": 1000,
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://yummybook.ru/cloud/images/recipe/item/8531/image_middle_41235c9de8f4ac99253852912_53852912.jpg"
+        },
+        {
+          "id": "57",
+          "name": "Сырники с изюмом",
+          "description": "Сырники с изюмом – сладкое лакомство для настоящих гурманов.",
+          "price": 1200,
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707946545/20240112_155200000_iOS_acmg8u.jpg"
+        },
+        {
+          "id": "41",
+          "name": "Блины с мясом, домашние",
+          "description": "ажурные  блины с сочной мясной начинкой, с луком и морковью.",
+          "price": "1800",
+          "promoPrice": "1500",
+          "portionSize": "кг",
+          "photo": "https://www.patee.ru/r/x6/19/da/42/960m.jpg"
+        },
+        {
+          "id": "42",
+          "name": "Блины с картошкой и грибами",
+          "description": "Блины с картошкой и жареными грибами.",
+          "price": 1200,
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707948149/8-8-1300x867_hsgimz.jpg"
+        },
+        {
+          "id": "43",
+          "name": "Блины с грибами",
+          "description": "Блины с грибами – настоящий гастрономический праздник.",
+          "price": 1300,
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://static.1000.menu/img/content/30246/bliny-farshirovannye-gribami_1544396782_1_max.jpg"
+        },
+        {
+          "id": "44",
+          "name": "Блины с потрошками",
+          "description": "Блины с ароматными потрошками – необычное угощение.",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://img.iamcook.ru/2018/upl/recipes/cat/u-75436604aa2c08e9b4440d7ecd0c4e21.jpg"
+        },
+        {
+          "id": "45",
+          "name": "Блины с творогом, домашние",
+          "description": "Блины с нежным творогом – сладкое и ароматное лакомство.",
+          "price": 1000,
+          "promoPrice": "800",
+          "portionSize": "кг",
+          "photo": "https://img.iamcook.ru/2021/upl/recipes/cat/u-1cd85a3ebf3937b326b51a3870582298.JPG"
+        },
+        {
+          "id": "46",
+          "name": "Блины с творогом и черникой",
+          "description": "Блины с творогом и черникой – легкое и полезное угощение.",
+          "price": 1500,
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://ju-jul.ru/wp-content/uploads/2013/03/Nachinka-dlya-blinov-iz-tvoroga-s-chernikoj.jpg"
+        },
+        {
+          "id": "47",
+          "name": "Блины с творогом и клубникой",
+          "description": "Блины с творогом и клубникой – вкусное сочетание.",
+          "price": 1000,
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707948371/OIP_1_gtmdwm.jpg"
+        },
+        {
+          "id": "48",
+          "name": "Блины с творогом и вишней",
+          "description": "Блины с творогом и вишней – нежное угощение.",
+          "price": 1000,
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707947769/2022-07-13_092911_a9k2jq.jpg"
+        },
+        {
+          "id": "49",
+          "name": "Блины с творогом и изюмом",
+          "description": "Блины с творогом и изюмом – сладкое лакомство.",
+          "price": 1200,
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://panianka.com.ua/wp-content/uploads/2021/02/34.jpg"
+        },
+        {
+          "id": "50",
+          "name": "Блины с маком",
+          "description": "Блины с ароматным маком, изюмом и апельсиновой цедрой – традиционное угощение.",
+          "price": "1500",
+          "promoPrice": "1300",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707947583/blinchiki-s-makom_w7je8f.jpg"
+        },
+        {
+          "id": "51",
+          "name": "Блины с вишней, домашние",
+          "description": "Блины с вишней – сладкое лакомство.",
+          "price": 1200,
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707947804/Menue5_kwj18h.jpg"
+        },
+        {
+          "id": "52",
+          "name": "Блины яблочные",
+          "description": "Блины с ароматными яблоками – легкое и вкусное угощение.",
+          "price": 800,
+          "promoPrice": "",
+          "portionSize": "20 шт",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707947341/12_suoqpv.jpg"
+        },
+        {
+          "id": "53",
+          "name": "Блины с карамельными яблоками",
+          "description": "Блины с карамелизоваными яблоками и корицей.",
+          "price": 1000,
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708271686/20230808_143219000_iOS_xiabpx.jpg"
+        },
+        {
+          "id": "54",
+          "name": "Блины с клубникой в заварном креме",
+          "description": "Блины - клубника в заварном креме.",
+          "price": 1000,
+          "promoPrice": "800",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707947433/07fcc81ad98ebc212cf8_1024_i1g0kj.jpg"
+        },
+        {
+          "id": "55",
+          "name": "Блины с вишней в заварном креме",
+          "description": "Блины  вишня в заварном креме – очень нежный десерт.",
+          "price": 1000,
+          "promoPrice": "800",
+          "portionSize": "кг",
+          "photo": "https://www.ermolino-produkty.ru/picts/news/1000%D1%85750_%D0%B1%D0%BB%D0%B8%D0%BD%D1%86%D1%8B_%D0%B2%D0%B8%D1%88%D0%BD%D1%8F.jpg"
+        },
+        {
+          "id": "mBMYYW9llfM2D3ucdFnUw",
+          "name": "Блины с клубникой",
+          "description": "сладкие блинчики с томленой клубникой",
+          "price": "1200",
+          "promoPrice": "",
+          "portionSize": "1 кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707948414/4dbfef5766d21a391d608d6bf85ded78_iq99ci.jpg"
+        },
+        {
+          "id": "F4aI8iVsXqBuGeMTEwjEd",
+          "name": "Блины с курицей и грибами",
+          "description": "Нежные блины, начиненные сочным фаршем из куриного мяса и ароматных грибов.",
+          "price": "1200",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707948514/1-71_rtoeaj.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Чебуреки и пирожки",
+      "items": [
+        {
+          "id": "23",
+          "name": "Чебуреки с мясом, домашние",
+          "description": "Сочные чебуреки с мясной начинкой.",
+          "price": 1000,
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707983322/%D1%87%D0%B5%D0%B1%D1%83%D1%80_xoc8rx.jpg"
+        },
+        {
+          "id": "24",
+          "name": "Чебуреки с сыром",
+          "description": "Аппетитные чебуреки с сыром и зеленью.",
+          "price": 1200,
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://img.postershop.me/3160/Products/1033849_1569918752.7221_original.jpg"
+        },
+        {
+          "id": "58",
+          "name": "Пирожок с капустой",
+          "description": "Ароматный пирожок с капустой – отличное лакомство.",
+          "price": 80,
+          "promoPrice": "",
+          "portionSize": "1 шт",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707947029/zharenye_pirozhki_s_tvorogom.jpg.crop_display_x2zpqr.jpg"
+        },
+        {
+          "id": "59",
+          "name": "Пирожок с картошкой",
+          "description": "Пирожок с картошкой – вкусное и насыщенное блюдо.",
+          "price": 60,
+          "promoPrice": "",
+          "portionSize": "1 шт",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707946304/20231113_134132000_iOS_jwpfx1.jpg"
+        },
+        {
+          "id": "037jzSwpC9A7MLQRvCY0-",
+          "name": "Пирожок с мясом",
+          "description": "Пирожок с ароматным мясным фаршем.",
+          "price": "80",
+          "promoPrice": "",
+          "portionSize": "шт",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707680060/p_O_axo1nh.jpg"
+        },
+        {
+          "id": "IJB-kTz45NZtcEsc-S2kV",
+          "name": "моти КИВИ",
+          "description": "японский десерт с киви",
+          "price": "250",
+          "promoPrice": "",
+          "portionSize": "шт",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708269296/20231218_190453000_iOS_wpj253.jpg"
+        },
+        {
+          "id": "eCj5UKdn59WHIqJ9cRiVu",
+          "name": "моти ЛАЙМ",
+          "description": "японский десерт с лаймом",
+          "price": "250",
+          "promoPrice": "",
+          "portionSize": "шт",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708269361/20231218_190540000_iOS_z5tsjy.jpg"
+        },
+        {
+          "id": "fCCaO07Y4PdelvDerSsIy",
+          "name": "Моти СМОРОДИНА",
+          "description": "японский десерт с черной смородиной",
+          "price": "250",
+          "promoPrice": "",
+          "portionSize": "шт",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708269482/20231218_190610000_iOS_zurfhz.jpg"
+        },
+        {
+          "id": "C-ULuWtBxLxJ2v4O4p9M3",
+          "name": "Моти ШОКОЛАД",
+          "description": "японский дессерт с шоколадом",
+          "price": "250",
+          "promoPrice": "",
+          "portionSize": "шт",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708269564/20231220_091313000_iOS_bcwvog.jpg"
+        },
+        {
+          "id": "6EgKFWvSho886EU3pxS2N",
+          "name": "Моти ВИШНЯ",
+          "description": "японский дессерт с вишней",
+          "price": "250",
+          "promoPrice": "",
+          "portionSize": "шт",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708269646/20231218_182805000_iOS_nhgjwa.jpg"
+        },
+        {
+          "id": "mdwIoRE1YgXEWz78iBV3_",
+          "name": "Моти КЛУБНИКА",
+          "description": "японский дессерт с клубникой",
+          "price": "250",
+          "promoPrice": "",
+          "portionSize": "шт",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708269713/20231218_182853000_iOS_hhsxla.jpg"
+        },
+        {
+          "id": "qL8Fl70s_UKysDH35G4R4",
+          "name": "Торт Наполеон",
+          "description": "тонкие хрустящие коржи с заварным ванильным кремом",
+          "price": "2500",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708269777/20231204_190742000_iOS_galkku.jpg",
+          "availability": ""
+        },
+        {
+          "id": "rfZhpZcT3wz-sG-b3P2CF",
+          "name": "Торт Медовик",
+          "description": "тонкие коржи с ароматом меда и фирменным кремом от TORTALBANIA ",
+          "price": "2500",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708269852/20231205_082657000_iOS_vdm2qy.jpg"
+        },
+        {
+          "id": "_OjkqsB28O0VDE7uTXd-d",
+          "name": "медовик  с клубникой / вишней в классическом креме",
+          "description": "тонкие медовые коржи с прослойкой из клубники или вишни на выбор со сметанным кремом",
+          "price": "2700",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708416167/tort-medovik-klassicheskii-sovetskii_1653801651_6_max_yktmlg.jpg",
+          "availability": ""
+        },
+        {
+          "id": "FT6PyaKqu3kLQMmZdpe3_",
+          "name": "Торт Наполеон с вишней / клубникой",
+          "description": "классический рецепт торта с вишневой/ клубничной прослойкой",
+          "price": "2600",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708416379/889fe70d22be74508fbc386d3785b2b8-recipe_main_evlqvl.jpg",
+          "availability": ""
+        },
+        {
+          "id": "rQbipOpTmsLOjfA7XHMQt",
+          "name": "Торт ,, Киевский ,, вес 1 кг",
+          "description": "два  коржа из хрустящего безе с масляным кремом",
+          "price": "3000",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708416592/maxresdefault_1_wesfew.jpg",
+          "availability": ""
+        },
+        {
+          "id": "CyHEJgt9Bjoj245oh02wN",
+          "name": "Торт ,, Киевский ,, вес 2 кг",
+          "description": "два хрустящих коржа из безе с масляным кремом",
+          "price": "5500",
+          "promoPrice": "",
+          "portionSize": "2 кг ",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708416766/-tort-kievskii-klassicheskii-kievskii-tort_1493805127_1_max_yg2bkh.jpg",
+          "availability": ""
+        },
+        {
+          "id": "PSte617x1L1OangzIfidw",
+          "name": "Медовик с вишневым желе, вес 1.5 кг",
+          "description": "медовые коржи с вишневым желе ",
+          "price": "3000",
+          "promoPrice": "",
+          "portionSize": "1,5 кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708416955/Mykolayivskyi-Napoleon-Tort-Medovyy-z-vyshneyu-01_wwdznw.jpg"
+        },
+        {
+          "id": "UO9BD7gvYjTJX-coG8AiP",
+          "name": "Торт ,, Фрезье ,,1 кг ",
+          "description": " нежный бисквит и клубнику, выложенную по краям и нежнейший заварной крем",
+          "price": "2500",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708417534/OIP_7_pzpj5u.jpg"
+        },
+        {
+          "id": "yYebLfK4OdeYKz2tkg0Dv",
+          "name": "Торт  ,, Фрезье ,, вес 2 кг",
+          "description": "нежный бисквит и клубнику, выложенную по краям и нежнейший заварной крем",
+          "price": "4500",
+          "promoPrice": "",
+          "portionSize": "2 кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708417834/maxresdefault_2_viug5x.jpg"
+        },
+        {
+          "id": "Xs8W8S7IkdN51iMuJJpXu",
+          "name": "Торт ,, Красный бархат ,, вес 2.5 кг",
+          "description": "три влажных шоколадных коржа с нежнейшим ,, прохладным,, кремом и прослойкой на выбор вишня/ черная смородина/ клубника",
+          "price": "4500",
+          "promoPrice": "",
+          "portionSize": "2,5 кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708418295/tort-krasnyj-barhat-retsept-s-foto-2000x1333_em5yxu.jpg",
+          "availability": ""
+        },
+        {
+          "id": "KbFaVA4f1Z176jWHToqDA",
+          "name": "Торт ,,ПРАГА,,",
+          "description": "шоколадные коржи, крем со вкусом шоколада, абрикосовок повидло, шоколадная крошка по бортику и заливка из черного шоколада",
+          "price": "3000",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708700966/tort-prazhskii-osnov_bemvzg.jpg",
+          "availability": ""
+        }
+      ]
+    },
+    {
+      "name": "Магазин - заморозка",
+      "items": [
+        {
+          "id": "23",
+          "name": "Чебуреки С мясом, фабрика/Греция",
+          "description": "Сочные чебуреки с мясной начинкой.",
+          "price": "1000",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707946728/20231129_180806000_iOS_urdwk6.jpg"
+        },
+        {
+          "id": "24",
+          "name": "Чебуреки С сыром",
+          "description": "Аппетитные чебуреки с сыром и зеленью.",
+          "price": 1200,
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://img.postershop.me/3160/Products/1033849_1569918752.7221_original.jpg"
+        },
+        {
+          "id": "GIh-dWKup-TceGaK6Gl84",
+          "name": "Пельмени свинина",
+          "description": "С мясом свинины",
+          "price": "000",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707907319/20240110_090642000_iOS_kdc4es.jpg"
+        },
+        {
+          "id": "RJxAl35lGwYhAjfI5Iosp",
+          "name": "Пельмени телячьи",
+          "description": "Фабричные пельмени из нежной телятины",
+          "price": "1300",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707907465/20240110_090619000_iOS_sidlqz.jpg"
+        },
+        {
+          "id": "w_pT_fHsATpTZX2URm4oY",
+          "name": "Пельмени куриные",
+          "description": "Фабричные пельмени из мяса курицы",
+          "price": "1300",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707907535/20240110_090557000_iOS_mpeiz4.jpg"
+        },
+        {
+          "id": "wUMDflaFJ6O267RSymOXo",
+          "name": "Пельмени RETRO",
+          "description": "Фабричные пельмени с мясом свинины и телятины",
+          "price": "1200",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707935124/20240110_090355000_iOS_uqdvcs.jpg"
+        },
+        {
+          "id": "RUA-q2ScYtRCwXV581K6A",
+          "name": "Пельмени ,, GERMES,, закусочные ",
+          "description": "Закусочные, из мяса свинины и телятины",
+          "price": "1200",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707935498/20240110_090454000_iOS_twabri.jpg"
+        },
+        {
+          "id": "79vK7XsxxXbYR9QXvWH2L",
+          "name": "Пельмени ,,GERMES ,, 'На троих'",
+          "description": "классические ",
+          "price": "1200",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707936592/20240110_115744000_iOS_mr3bb2.jpg"
+        },
+        {
+          "id": "kxuDG0CvZvI4e2uIMvek5",
+          "name": "Пельмени ,,GERMES ,, индейка",
+          "description": "Фабричные пельмени с мясом индейки",
+          "price": "700",
+          "promoPrice": "",
+          "portionSize": "0.450 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708243510/20231224_141456000_iOS_lcwkit.jpg"
+        },
+        {
+          "id": "4IKKTAzg0GTgSxejV5x30",
+          "name": "Вареники ,, ТЕЩА ,, с вишней",
+          "description": "Фабричные вареники с вишней без сахара ",
+          "price": "700",
+          "promoPrice": "500",
+          "portionSize": "450 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707937431/20240110_120536000_iOS_metdwl.jpg"
+        },
+        {
+          "id": "BflHMUVqZCo4iQot8U_9J",
+          "name": "Вареники ,,KESIDIS ,, с творогом/450",
+          "description": "Фабричные вареники со сливочным  творогом, без сахара",
+          "price": "700",
+          "promoPrice": "600",
+          "portionSize": "450 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707987754/%D0%B2%D0%B0%D1%80%D0%B5%D0%BD_%D1%82%D0%B2%D0%BE%D1%80%D0%BE%D0%B3_fbmokj.jpg"
+        },
+        {
+          "id": "smBl1IOccCreiiZaIMoUE",
+          "name": "Блины ,,RETRO,, с творогом в упаковке",
+          "description": "Очень вкусные блины с нежной творожной начинкой",
+          "price": "000",
+          "promoPrice": "",
+          "portionSize": "500 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707938936/20240112_084217000_iOS_lsj34l.jpg"
+        },
+        {
+          "id": "O4Mh5oD0z3MkckbyiL1EU",
+          "name": "Блины ,,RETRO,, с мясом в упаковке",
+          "description": "Вкуснейшие блины с сочным мясом, специями",
+          "price": "000",
+          "promoPrice": "",
+          "portionSize": "500 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707939086/20240112_085050000_iOS_nriwbt.jpg"
+        },
+        {
+          "id": "tK9FD4wNisNzCS_PiBIOA",
+          "name": "Пельмени Буль Мени со свининой и сливочным маслом",
+          "description": "Со свининой и сливочным маслом ",
+          "price": "1400",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707987598/%D0%B1%D1%83%D0%BB%D1%8C%D0%BC%D0%B5%D0%BD%D0%B8_kmofwf.jpg"
+        },
+        {
+          "id": "uUyEbEjfVhn6t3BxhouAO",
+          "name": "Облепиха",
+          "description": "Облепиха в упаковке, заморозка",
+          "price": "800",
+          "promoPrice": "",
+          "portionSize": "500 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707943687/20231127_095040000_iOS_dqwdsx.jpg"
+        },
+        {
+          "id": "QDj_GGS7MgeWFDrejM8vV",
+          "name": "Клюква",
+          "description": "Клюква в упаковке, заморозка",
+          "price": "800",
+          "promoPrice": "",
+          "portionSize": "500 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707943515/20231127_094804000_iOS_s82uug.jpg"
+        },
+        {
+          "id": "PKfPJRQtpAczwlS55-Zpw",
+          "name": "Рябина",
+          "description": "Рябина в упаковке, заморозка",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "500 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707943602/20231127_094837000_iOS_quzuoz.jpg"
+        },
+        {
+          "id": "6cywHiq_orPoTt94tRBFY",
+          "name": "Педьмени Маша и Медведь",
+          "description": "детские пельмени небольшого размера",
+          "price": "1200",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708268980/OIP_6_tdhxdw.jpg",
+          "availability": ""
+        },
+        {
+          "id": "_NMWPB0YHOvuH6bIQhpIO",
+          "name": "сало Украинское",
+          "description": "соленое сало готовое к употреблению, решем от 300 грамм",
+          "price": "2000",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708271537/20230812_121422000_iOS_st1y7r.jpg",
+          "availability": ""
+        },
+        {
+          "id": "LjElkpYvkm0RDqwrc8CAh",
+          "name": "вареники с картошкой ,, DA ,, ",
+          "description": "очень вкусное тесто с домашней картошечкой",
+          "price": "1000",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708412256/42909_ib9shl.jpg",
+          "availability": ""
+        },
+        {
+          "id": "1ZSLlWEU6FpF_2AspVEiV",
+          "name": "хинкали фабричные",
+          "description": "очень сочные мясные хинкали / Греция",
+          "price": "1400",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709287432/hinkali-e1531812983174_kw29lv.jpg",
+          "availability": ""
+        },
+        {
+          "id": "JF6_PzT0YctYWMKFnugDh",
+          "name": "блины с вишней RETRO",
+          "description": "много вишни в ажурных блинах",
+          "price": "800",
+          "promoPrice": "",
+          "portionSize": "500 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709287773/64386_otendd.jpg"
+        },
+        {
+          "id": "yDna4jqqF5PCwrtmUvLNX",
+          "name": "блины с мясом, фабрика/Греция",
+          "description": "очень много начинки",
+          "price": "1200",
+          "promoPrice": "",
+          "portionSize": "700 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709288345/scale_1200_kjdzxb.jpg"
+        },
+        {
+          "id": "vYwy5EaA4fxT8DmLyzA0N",
+          "name": "пельмени GERMES / Сибирские 1 кг ",
+          "description": "пельмени с классическим фаршем",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709452560/000274_fqdd5m.jpg",
+          "availability": ""
+        },
+        {
+          "id": "KEkejNBeDJlwFj8vhZDjV",
+          "name": "пельмени KESIDIS /450 ",
+          "description": "нежное тесто с домашним фаршем",
+          "price": "700",
+          "promoPrice": "600",
+          "portionSize": "450 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709452699/019171-1_my1eno.jpg"
+        },
+        {
+          "id": "39z3bnR-DEmYqgw22EFPA",
+          "name": "пельмени SMILE/ GERMES/500",
+          "description": "детские пельмени небольшого размера",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "500 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709453991/010276_adjk92.jpg",
+          "availability": ""
+        },
+        {
+          "id": "y2v6HEib968GThWMd94-X",
+          "name": "Вареники KESIDIS  Appetitnie с картошечкой 450",
+          "description": "вареники с картошкой и луком",
+          "price": "500",
+          "promoPrice": "400",
+          "portionSize": "450 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709462549/019171-1_at1tho.jpg"
+        },
+        {
+          "id": "i3hreZHLRZuoRo-kK40FD",
+          "name": "Пельмени KESIDIS 1000",
+          "description": "фабричные пельмени классические с бульоном ",
+          "price": "1400",
+          "promoPrice": "1000",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1710152411/tortellini-casalingo-crudo-21999288_wrkbje.webp"
+        },
+        {
+          "id": "z2ybslFs_iYr4rVO3kF1N",
+          "name": "вареники KESIDIS с твором 1000",
+          "description": "фабричные вареники с домашним творогом",
+          "price": "1400",
+          "promoPrice": "1000",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1710152825/OIP_3_rheawv.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Магазин - рыба",
+      "items": [
+        {
+          "id": "0PqZXgVPSLnFrSDRMOGO0",
+          "name": "Желтый полосатик",
+          "description": "Снеки под пиво, сухая рыбка в упаковке 36 г",
+          "price": "300",
+          "promoPrice": "",
+          "portionSize": "уп",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709381349/OIP_10_ozp2sx.jpg"
+        },
+        {
+          "id": "CIwx3aKa8yZ5GEhP5lVle",
+          "name": "Кальмар кольцами",
+          "description": "Кальмар копченый в ассортименте - пикантный и классический",
+          "price": "300",
+          "promoPrice": "",
+          "portionSize": "уп",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709381174/OIP_11_qvxhmn.jpg"
+        },
+        {
+          "id": "TvJSBhXbRHEbXrQqL8PcC",
+          "name": "Скумбрия х/к ",
+          "description": "Очень вкусная, сочная скумбрия х/к под картошечку или как закуску к пиву",
+          "price": "600",
+          "promoPrice": "",
+          "portionSize": "330 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708255552/R_1_ctshir.jpg"
+        },
+        {
+          "id": "nIsnelaUa7C2dtZuxQV11",
+          "name": "Печень трески",
+          "description": "В масле",
+          "price": "500",
+          "promoPrice": "",
+          "portionSize": "125 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707907192/20240108_142822000_iOS_vv8sis.jpg"
+        },
+        {
+          "id": "0wiEIzh8jzJ2H5Kk7Aqie",
+          "name": "кольца кальмара ",
+          "description": "Снеки под пиво в упаковке 36 г",
+          "price": "300",
+          "promoPrice": "",
+          "portionSize": "уп",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709381320/08111569_1_cj88q3.jpg"
+        },
+        {
+          "id": "PFLzkD9wGyJ2567CUQ-Gi",
+          "name": "Морская капуста ",
+          "description": "В упаковке",
+          "price": "300",
+          "promoPrice": "",
+          "portionSize": "200 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707945374/20231130_132220000_iOS_qwyadc.jpg"
+        },
+        {
+          "id": "kHgxWfJ2rOf--HVo-PPPf",
+          "name": "Лещ вяленый, крупный",
+          "description": "Сочная сушеная рыбка под пиво",
+          "price": "200",
+          "promoPrice": "",
+          "portionSize": "100 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707982131/%D0%BB%D0%B5%D1%89_%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_l8lt9t.jpg"
+        },
+        {
+          "id": "eepqie68Ea2S4jvKXT1GR",
+          "name": "Вобла сушеная",
+          "description": "Рыбка средних размеров, сушеная",
+          "price": "300",
+          "promoPrice": "",
+          "portionSize": "100 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707982235/%D0%B2%D0%BE%D0%B1%D0%BB%D0%B0_%D1%81_%D0%BF%D0%B8%D0%B2%D0%BE%D0%BC_fyaexe.jpg"
+        },
+        {
+          "id": "d3RRTSD72VrPwPj-sG_xj",
+          "name": "Камса сушеная",
+          "description": "Малосольная крупная рыбка, с широкой спинкой, в рассоле",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "100 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707982660/OI%D0%BA%D0%B0%D0%BC%D1%81%D0%B0_%D1%81%D1%83%D1%85_rm4jxe.jpg"
+        },
+        {
+          "id": "gPVzdt4mwKaBQYQ3isMbx",
+          "name": "Мойва копченая, жирная",
+          "description": "Рыбка небольших размеров, сушеная",
+          "price": "250",
+          "promoPrice": "",
+          "portionSize": "100 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707982765/%D0%BC%D0%BE%D0%B9%D0%B2%D0%B0_%D1%81%D1%83%D1%85%D0%B0%D1%8F_r0e3ly.webp"
+        },
+        {
+          "id": "d2K4MCJ4JJiLIB2XjSjV1",
+          "name": "Селедка с икрой",
+          "description": "Малосольная крупная рыбка, с широкой спинкой, в рассоле",
+          "price": "900",
+          "promoPrice": "800",
+          "portionSize": "510 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707982870/%D1%81%D0%B5%D0%BB%D1%8C%D0%B4%D1%8C_aoh5w0.jpg"
+        },
+        {
+          "id": "IKmKO2qxF6bpviHqc83-x",
+          "name": "Икра красная Янтарная 130 г",
+          "description": "Малосольная, лососевая, икринки небольшого размера, в металле",
+          "price": "2500",
+          "promoPrice": "2000",
+          "portionSize": "шт",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707983729/R_fon2je.jpg"
+        },
+        {
+          "id": "v3ks6h3F017j6adwIIgrV",
+          "name": "Икра Кеты в стекле 100 г",
+          "description": "Красная икра Кеты в стекле",
+          "price": "2700",
+          "promoPrice": "",
+          "portionSize": "100 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707942174/20231207_100924000_iOS_evfqlc.jpg"
+        },
+        {
+          "id": "MHuZzvRi4L3jNdtw6MBCf",
+          "name": "Мясо крыля",
+          "description": "Намазка на хлеб из мяса крыля",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": " товар в пути  150 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707942492/20231212_075304000_iOS_emguj1.jpg"
+        },
+        {
+          "id": "h_-zhhDvWYLiQWS3M6dg0",
+          "name": "Икра красная Золото",
+          "description": "Икра лососевая",
+          "price": "1900",
+          "promoPrice": "1600",
+          "portionSize": "0.95 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707936895/20240110_104702000_iOS_bizqle.jpg"
+        },
+        {
+          "id": "9B5-gadyoWtSSE1l5v7rw",
+          "name": "Икра красная в стекле 200 г",
+          "description": "Икра лосевая в стекле",
+          "price": "3800",
+          "promoPrice": "",
+          "portionSize": "200 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707936925/20240110_104836000_iOS_ct8bcg.jpg"
+        },
+        {
+          "id": "2Y8Jmi3WJXGHs4nU0o1Tr",
+          "name": "Шпроты Рижские",
+          "description": "Крупная рыбка в масле",
+          "price": "800",
+          "promoPrice": "",
+          "portionSize": "250 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707938336/20240110_131055000_iOS_t2uefb.jpg"
+        },
+        {
+          "id": "U6HmExH3aM3n8pzljKqql",
+          "name": "Селедка филешка в упаковке",
+          "description": "Филе селедки",
+          "price": "500",
+          "promoPrice": "400",
+          "portionSize": "250 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707937227/20240112_084336000_iOS_l59qon.jpg"
+        },
+        {
+          "id": "PcODKz1FYxNyup-OscdLc",
+          "name": "Крабовые палочки",
+          "description": "Крабовые палочки - идеально для салата",
+          "price": "300",
+          "promoPrice": "",
+          "portionSize": "250 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707937292/20240111_110656000_iOS_gqdevj.jpg"
+        },
+        {
+          "id": "1YYP3xVz2mz9I3r1FDVKu",
+          "name": "Копченая рыбка ",
+          "description": "Копченое жирное пузико лосося",
+          "price": "400",
+          "promoPrice": "300",
+          "portionSize": "200 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707907394/20240109_112326000_iOS_zu3iq5.jpg"
+        },
+        {
+          "id": "fvMRldd95_MgR0XH5z8FO",
+          "name": "икра горбуши 250 г в металле",
+          "description": "икра горбуши 1 сорта  ",
+          "price": "3300",
+          "promoPrice": "3000",
+          "portionSize": "250 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708971605/Buckellachskaviar-Bering_xxl_ddohdj.jpg"
+        },
+        {
+          "id": "jlh0qneeeX-KB9I2xnCUH",
+          "name": "икра форели в стекле 250 г",
+          "description": "малосольная мелкая икра ",
+          "price": "3500",
+          "promoPrice": "3000",
+          "portionSize": "250 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708974409/item_23_1588524452_xeck62.jpg"
+        },
+        {
+          "id": "F-fF8JSwfAJN8UZstPGJZ",
+          "name": "икра лососевая в стекле 100 г",
+          "description": "малосольная икра средних размеров",
+          "price": "2000",
+          "promoPrice": "1800",
+          "portionSize": "100г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708974566/R_3_qatp9p.jpg"
+        },
+        {
+          "id": "qIAdc_-hznE3052TTdzLY",
+          "name": "сыр - косичка/ копченый ",
+          "description": "вакуумная упаковка, сыр копченый",
+          "price": "280",
+          "promoPrice": "",
+          "portionSize": "100 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709289246/R_8_acgbmd.jpg"
+        },
+        {
+          "id": "S_LjqMskhUh_Tdc509uGC",
+          "name": "тунец сушеный в упаковке",
+          "description": "закуска к пиву",
+          "price": "300",
+          "promoPrice": "",
+          "portionSize": "уп",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709381392/08201688_2_o9ui4d.jpg",
+          "availability": ""
+        },
+        {
+          "id": "HvWINYEYwgWKdGZqqTfR7",
+          "name": "корюшка сушеная ",
+          "description": "снеки под пиво",
+          "price": "300",
+          "promoPrice": "",
+          "portionSize": "уп",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709381505/519j4x_qAJL._SL1000__sr5g3k.jpg",
+          "availability": ""
+        },
+        {
+          "id": "-xv3AAOhK3mh7d-L7M3TD",
+          "name": "икра Форели в стекле",
+          "description": "малосольная икра форели в стекле/ Германия",
+          "price": "3000",
+          "promoPrice": "",
+          "portionSize": "250 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709402044/Thess-26_02_25_zx35s6.jpg"
+        },
+        {
+          "id": "bcg_N1H7RS6U8ko_9-sCr",
+          "name": "бренди 8 лет",
+          "description": "8 лет",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "бут",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709453419/019432_hlfbdv.jpg",
+          "availability": ""
+        },
+        {
+          "id": "FBLlsFCDv0kyLqkIF9BNa",
+          "name": "бренди Армения 7 лет",
+          "description": "под заказ",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "бут",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709453486/000997_dks17j.jpg",
+          "availability": ""
+        },
+        {
+          "id": "4GdZBIKWfKc1pbcPCp0Xy",
+          "name": "бренди ВИОЛИН",
+          "description": "40 градусов, 500 мл/ под заказ ",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "бут",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709453610/019430_alsaaw.jpg",
+          "availability": ""
+        },
+        {
+          "id": "t7TXZS59OCZpJMj1mhVtM",
+          "name": "бренди SVORD ",
+          "description": "Армения/ под заказ ",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "бут",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709453690/021479_u3uver.jpg",
+          "availability": ""
+        },
+        {
+          "id": "bSrHn01x0bbXBMwPiY9rZ",
+          "name": "бренди CERAMIK OWL",
+          "description": "Армения/ под заказ",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "бут",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709453764/024099_o1yohs.jpg",
+          "availability": ""
+        }
+      ]
+    },
+    {
+      "name": "Магазин - бакалея",
+      "items": [
+        {
+          "id": "9NMv-PovXB7qV-TPRVVOH",
+          "name": "Конфеты шоколадные Классик",
+          "description": "В ассортименте",
+          "price": "800",
+          "promoPrice": "",
+          "portionSize": "300 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707943885/20231127_153344000_iOS_id1ryo.jpg"
+        },
+        {
+          "id": "PLAtMT6mPJdAFB7bSiGzQ",
+          "name": "Шоколадные конфеты Комплимент",
+          "description": "Шоколадные конфеты в ассортименте",
+          "price": "600",
+          "promoPrice": "",
+          "portionSize": "300  г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707944022/20231127_153401000_iOS_exdurt.jpg"
+        },
+        {
+          "id": "UzZDAHsRD7k1eFYNZqRs1",
+          "name": "Шоколадные конфеты Елегант",
+          "description": "Шоколадные конфеты в ассортименте",
+          "price": "800",
+          "promoPrice": "",
+          "portionSize": "300 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707944103/20231127_172503000_iOS_g6wfzx.jpg"
+        },
+        {
+          "id": "wJfTainDp_R-qQ_O4rOHy",
+          "name": "Черный чай",
+          "description": "Пакетированный",
+          "price": "200",
+          "promoPrice": "",
+          "portionSize": "500 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707944221/20231127_172410000_iOS_nym7ns.jpg"
+        },
+        {
+          "id": "s_9B2PXMpeTceJqbhryEr",
+          "name": "Хрен острый",
+          "description": "Хрен двух видов: с буряком и без",
+          "price": "400",
+          "promoPrice": "",
+          "portionSize": "200 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707939527/20231226_113935000_iOS_bptyx4.jpg",
+          "availability": ""
+        },
+        {
+          "id": "Cfjlair8B2Tcd4BZBGBxn",
+          "name": "Хлеб 'Бородинский'",
+          "description": "Ржаной черный хлеб ",
+          "price": "400",
+          "promoPrice": "",
+          "portionSize": "350 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707942055/20231212_075442000_iOS_gllkmq.jpg",
+          "availability": ""
+        },
+        {
+          "id": "NQ6Fjgw2-6GafaYXE8MTU",
+          "name": "Конфеты 'Веночек' ",
+          "description": "Шоколадные конфеты с мармеладной начинкой",
+          "price": "800",
+          "promoPrice": "",
+          "portionSize": "500 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707942753/20231116_075335000_iOS_jebphe.jpg",
+          "availability": ""
+        },
+        {
+          "id": "kvweUbxans7H-W9oz3_aM",
+          "name": "Шоколадные конфеты CERRY",
+          "description": "Шоколадные конфеты с клубничной или вишневой начинкой ",
+          "price": "600",
+          "promoPrice": "",
+          "portionSize": "300 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707943090/20231116_075459000_iOS_j45bzv.jpg"
+        },
+        {
+          "id": "AMJuyBlJ0rTl3nSkY-lL6",
+          "name": "Сок Садочок",
+          "description": "сок томатный",
+          "price": "400",
+          "promoPrice": "",
+          "portionSize": "л",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709200915/%D1%81%D1%96%D0%BA-%D1%81%D0%B0%D0%B4%D0%BE%D1%87%D0%BE%D0%BA-%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%BD%D0%B8%D0%B9-%D0%B7-%D1%81%D1%96%D0%BB%D0%BB%D1%8E-095%D0%BB_nkg5xh.jpg"
+        },
+        {
+          "id": "pmGBI5o1SDBQsAUUEv0Tn",
+          "name": "Пряники",
+          "description": "Пряники со вкусом малины, ароматом ванили",
+          "price": "000",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707938746/20240121_153616269_iOS_gsbpxw.jpg",
+          "availability": ""
+        },
+        {
+          "id": "FujworvR5xXg0yj67AK1t",
+          "name": "Кисель",
+          "description": "Со вкусом клубники или вишни ",
+          "price": "300",
+          "promoPrice": "",
+          "portionSize": "уп",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1707933324/20240108_145749000_iOS_xzoavd.jpg",
+          "availability": ""
+        },
+        {
+          "id": "H1u7_pG3E8UJimn0ZWCCa",
+          "name": "аджика грузинская",
+          "description": "острая",
+          "price": "700",
+          "promoPrice": "",
+          "portionSize": "200 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708424204/20231220_142721000_iOS_s7gqgk.jpg",
+          "availability": ""
+        },
+        {
+          "id": "ciXTPBAG2MtaasjJ-ryf_",
+          "name": "конфеты Мирель/ Николь",
+          "description": "производство Харьков/Украина",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "кг",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708424420/20231204_191233000_iOS_jp8qil.jpg"
+        },
+        {
+          "id": "hO0uBi-omv_YyC7mpQor8",
+          "name": "Шпроты Рижские",
+          "description": "крупная рыбка в масле",
+          "price": "700",
+          "promoPrice": "",
+          "portionSize": "250 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708424810/20231030_103022000_iOS_mgtgn0.jpg"
+        },
+        {
+          "id": "TzpSHAmUZn7nmWKEG9fOQ",
+          "name": "икра кабачковая домашняя 680 г",
+          "description": " икра из кабачков в стекле",
+          "price": "700",
+          "promoPrice": "",
+          "portionSize": "680 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708972615/1225_fbqvqz.jpg"
+        },
+        {
+          "id": "lPwEOCYiZB9bysnL7pRki",
+          "name": "икра баклажанная домашняя 680 г",
+          "description": "приготовлена по домашнему рецепту",
+          "price": "700",
+          "promoPrice": "",
+          "portionSize": "680 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708972690/1226_n61kmj.jpg",
+          "availability": ""
+        },
+        {
+          "id": "9jDdy_Q8OfWtHkTtbBYCg",
+          "name": "квас темный Лидский , 500 мл",
+          "description": "квас в банке ",
+          "price": "300",
+          "promoPrice": "",
+          "portionSize": "500 мл",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708973272/Kwas-chlebowy-Lidzki-450-ml_mirdu4.jpg",
+          "availability": ""
+        },
+        {
+          "id": "yGfeTWgKf-dU8CgSe2Lsh",
+          "name": "квас хлебный Лидский 500 мл",
+          "description": "светлый квас в банке",
+          "price": "300",
+          "promoPrice": "",
+          "portionSize": "500 мл",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708973640/0009739_kvass-khlebny-05l-can_550_xkstwk.jpg",
+          "availability": ""
+        },
+        {
+          "id": "kgeVczTTeyzoLmjehdG5H",
+          "name": "свинина тушеная  400 г",
+          "description": "свинина тушеная в собственном соку",
+          "price": "700",
+          "promoPrice": "",
+          "portionSize": "400 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708973850/08103529_2_fbghb5.jpg",
+          "availability": ""
+        },
+        {
+          "id": "RUb8446XE5Ar6700le7Eq",
+          "name": "паштет утиный МОЯ СЕМЬЯ",
+          "description": "нежный паштет из утки",
+          "price": "300",
+          "promoPrice": "",
+          "portionSize": "130 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708974038/1545_rlmndt.jpg"
+        },
+        {
+          "id": "MDdsdqxJ1MpGPCBCKZeQp",
+          "name": "паштет гусиный МОЯ СЕМЬЯ",
+          "description": "нежный паштет из гуся",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "130",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708974063/000123_t1drex.jpg",
+          "availability": ""
+        },
+        {
+          "id": "Oyo_bIMBOwv3n8zwv9xHM",
+          "name": "паштет куриный МОЯ СЕМЬЯ ",
+          "description": "нежный паштет из курицы",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "130 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1708974168/OIP_8_xgbmlf.jpg",
+          "availability": ""
+        },
+        {
+          "id": "p_cKrbaCtgH70yopzDdqD",
+          "name": "паштет из индейки",
+          "description": "польша",
+          "price": "300",
+          "promoPrice": "",
+          "portionSize": "130 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709196142/src.1654885290.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x_p4qcnb.jpg",
+          "availability": ""
+        },
+        {
+          "id": "JQyV99QFnYT3aGJb63B6e",
+          "name": "гречка НАЦИОНАЛЬ ",
+          "description": "производство Беларусь",
+          "price": "700",
+          "promoPrice": "",
+          "portionSize": "900 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709289393/100450_jcu7os.jpg",
+          "availability": ""
+        },
+        {
+          "id": "Qe_0p0czbYe_7B2Z3v-mu",
+          "name": "гречка ЖИТНИЦА",
+          "description": "производство Украина",
+          "price": "600",
+          "promoPrice": "",
+          "portionSize": "800 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709289644/3996_vxjexm.jpg",
+          "availability": ""
+        },
+        {
+          "id": "g9ln1EitJ3fiO4vWev2rF",
+          "name": "сгущенка вареная ",
+          "description": "вареное сгущенное молоко, Германия",
+          "price": "400",
+          "promoPrice": "",
+          "portionSize": "390 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709454159/000232_tcdrh0.jpg",
+          "availability": ""
+        },
+        {
+          "id": "qoog7UAB3oAMPM8UMT4ez",
+          "name": "сгущенное молоко с какао",
+          "description": "Германия",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "390",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709454223/011659_qdvd47.jpg",
+          "availability": ""
+        },
+        {
+          "id": "gT0GEsta1Fm1h1NWuxSdd",
+          "name": "крупа манная 900",
+          "description": "крупа манная ",
+          "price": "600",
+          "promoPrice": "",
+          "portionSize": "900 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709454408/000220_g8uilg.jpg",
+          "availability": ""
+        },
+        {
+          "id": "0TF7xpEDswDHaHlWyu_EF",
+          "name": "крупа ПШЕНО",
+          "description": "пшено",
+          "price": "600",
+          "promoPrice": "",
+          "portionSize": "900",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709454428/000573_cff5sd.jpg",
+          "availability": ""
+        },
+        {
+          "id": "LZ8tIAfzl6we82NCacgVL",
+          "name": "крупа ПЕРЛОВАЯ ",
+          "description": "перловка ",
+          "price": "600",
+          "promoPrice": "",
+          "portionSize": "900",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709454535/000806_ighfa1.jpg",
+          "availability": ""
+        },
+        {
+          "id": "ul7unBuPABbBjiLpZB-OX",
+          "name": "заправка для борща ТОРЧИН",
+          "description": "Украина ",
+          "price": "300",
+          "promoPrice": "",
+          "portionSize": "240 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709455135/000173-510x510_rp62vq.jpg"
+        },
+        {
+          "id": "N-Fhnx8rBQQPUm2a2aqvW",
+          "name": "заправка томатная с перцем Торчин",
+          "description": "для супа или борща, плов / Украина",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "240 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709455221/016732_mshejj.jpg",
+          "availability": ""
+        },
+        {
+          "id": "IG_MXxOLaY8sAoCGeKhsF",
+          "name": "заправка для рассольника ТОРЧИН ",
+          "description": "с мариноваными огурцами",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "240 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709455299/016733_hy2s4q.jpg",
+          "availability": ""
+        },
+        {
+          "id": "-b2q53K2u1f3eIFO9VP9T",
+          "name": "Cereal Bars Chocolate 180gr Go Nutri",
+          "description": "без сахара ",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "шт",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709455472/000948_gzecx9.jpg"
+        },
+        {
+          "id": "0Zxe-X5qWmtoSu8js_nbQ",
+          "name": "Cereal Bars Tropical Fruits 180gr Go Nutri",
+          "description": "без сахара",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "шт",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709455496/005200_n1supd.jpg"
+        },
+        {
+          "id": "kxmv3NtAEDNdEB9ErOLtv",
+          "name": "Ceylon Black Tea With Bergamot 500gr Earl Gr",
+          "description": "цейлонский чай в упаковке ",
+          "price": "400",
+          "promoPrice": "",
+          "portionSize": "500",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709455654/001154_mo8r9h.jpg"
+        },
+        {
+          "id": "9yuzZQM9PuRVNSufywlF1",
+          "name": "Black Tea English No1 40 Bags Ahmad",
+          "description": "чай  в пакетах, в упаковке 40 штук",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "уп",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709455748/000465_zi2ur5.jpg"
+        },
+        {
+          "id": "3TCw-nCAMysfb-U1uCtVj",
+          "name": "Black Tea English Breakfast 40 Bags Ahmad",
+          "description": "чай черный в упаковке, пакетированый",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "уп",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709455835/000466_yawo5y.jpg"
+        },
+        {
+          "id": "MoDbEkMGtRqLeaH6YBFi5",
+          "name": "Ceylon Black Tea 500gr",
+          "description": "чай черный ",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "500 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709456029/000200_z0txos.jpg"
+        },
+        {
+          "id": "roUFfWJjilS7PEp-nhOpT",
+          "name": "Indian Instant Coffee 90gr",
+          "description": "кофе растворимый, ИНДИЯ",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "90 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709456156/016192_f7dcxh.jpg"
+        },
+        {
+          "id": "2ehqXdBkMQBnuSJjwWpDP",
+          "name": "Soluble Chicory 150gr",
+          "description": "цикорий натуральный",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "150 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709456217/016191_gm0lja.jpg"
+        },
+        {
+          "id": "_ekQcMYi_mMnHNOkgQjd0",
+          "name": "Black TeaSpring Melody Greenfield 25pcs",
+          "description": "черный чай пакетированный, 25 штук",
+          "price": "500",
+          "promoPrice": "",
+          "portionSize": "цп",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709456487/019828_ltsau0.jpg"
+        },
+        {
+          "id": "gJ7iumY_RJyI3m8XDiWJw",
+          "name": "Black Tea Royal Ceylon 80gr Richard",
+          "description": "чай черный цейлонский в металле",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "80 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709456580/016970_mnkjbz.jpg"
+        },
+        {
+          "id": "O9dvoyZsWrIRm3HjTI3FX",
+          "name": "Green Tea Royal Green 80gr Richard",
+          "description": "чай зеленый цейлонский в банке",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "80",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709456765/016971_erczba.jpg"
+        },
+        {
+          "id": "Qfraj-IcS2gQMiq_JyYFi",
+          "name": "Black Tea Royal Assam 50gr Richard",
+          "description": "Black Tea Royal Assam 50gr Richard",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "50",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709456898/016972_x79xhz.jpg",
+          "availability": ""
+        },
+        {
+          "id": "Jq24u1oLCnmlBvk34Ni-x",
+          "name": "Black Tea Royal Legend 120gr Richard",
+          "description": "Black Tea Royal Legend 120gr Richard",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "120 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709456961/016975_a4eg2i.jpg",
+          "availability": ""
+        },
+        {
+          "id": "FJfuIuVKrG0GwB8dv6EX_",
+          "name": "Tea Royal Milk Oolong 50gr Richard",
+          "description": "Tea Royal Milk Oolong 50gr Richard",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "50 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709457033/016974_gthjux.jpg",
+          "availability": ""
+        },
+        {
+          "id": "axxbn1rrMzpK2BBg0jnST",
+          "name": "Black Tea Barberry Garden 25 Bags Greenfield",
+          "description": "Black Tea Barberry Garden 25 Bags Greenfield",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "уп",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709457120/008700_ynwvpj.jpg",
+          "availability": ""
+        },
+        {
+          "id": "70QjcHMVhdd87NKacVAuo",
+          "name": "Green Tea Flying Dragon 25 Bags Greenfield",
+          "description": "Green Tea Flying Dragon 25 Bags Greenfield",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "уп",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709457210/008698_scg2yq.jpg",
+          "availability": ""
+        },
+        {
+          "id": "vbKO4sHGh6he3tbqc-zLB",
+          "name": "Green Tea China 500gr",
+          "description": "Green Tea China 500gr",
+          "price": "700",
+          "promoPrice": "",
+          "portionSize": "200 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709457279/000208_sw0o7s.jpg"
+        },
+        {
+          "id": "CyVoFO_chHkEpTK-bFFv5",
+          "name": "Ceylon Black Tea With Bergamot 500gr",
+          "description": "Ceylon Black Tea With Bergamot 500gr",
+          "price": "1600",
+          "promoPrice": "",
+          "portionSize": "500 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709457631/000628_wsuks6.jpg"
+        },
+        {
+          "id": "SC6X-ZniYHZEkH0lSDT9E",
+          "name": "сок томатный БОЛГАРИЯ литр",
+          "description": "густой томатный сок",
+          "price": "400",
+          "promoPrice": "",
+          "portionSize": "л",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709458041/000321_naonxa.jpg",
+          "availability": ""
+        },
+        {
+          "id": "nS8eHSQJHXAACm__o6luW",
+          "name": "сок березовый ГРЕЦИЯ литр",
+          "description": "сок натуральный",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "л",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709458118/000490_pagctj.jpg",
+          "availability": ""
+        },
+        {
+          "id": "7oUFSsTWAsU8tUZ8h-yUM",
+          "name": "сок березовый НЕПОСЕДА литр",
+          "description": "сок березовый ",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "л",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709458241/021948_vq0qa4.jpg",
+          "availability": ""
+        },
+        {
+          "id": "floGTmtpbsTBueVTjD3F1",
+          "name": "помидоры консервированные ОГОНЕК литр",
+          "description": "помидоры в рассоле",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "товар в пути",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709458584/000183_iatl11.jpg"
+        },
+        {
+          "id": "DxVu5d0XWmAQ3Idb0K8uo",
+          "name": "помидоры консервированные, Германия, литр",
+          "description": "помидоры классические",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "л",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709458731/000186_o9d9d4.jpg",
+          "availability": ""
+        },
+        {
+          "id": "8yzCvdht2aXfP4d3lF8e5",
+          "name": "помидоры консервированы ЗАКУСКА, 1700",
+          "description": "помидоры консервированные,  классические",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "1700 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709458808/000472_e20gyi.jpg",
+          "availability": ""
+        },
+        {
+          "id": "uICwhcJpCZD0cvUCD6Cir",
+          "name": "помидоры консервированные, ТМ  DA, 880 ",
+          "description": "помидоры консервированные, классические",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "880 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709458952/024481_oyhdkf.jpg",
+          "availability": ""
+        },
+        {
+          "id": "SUDRDsiuhbRE3DczV_EMP",
+          "name": "печень трески в масле 130г",
+          "description": "печень трески",
+          "price": "500",
+          "promoPrice": "",
+          "portionSize": "130",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709459718/001013_mqbxtf.jpg",
+          "availability": ""
+        },
+        {
+          "id": "hwfwjFW91tgAadnD3f01o",
+          "name": "тушенка  Beef No1 400gr",
+          "description": "тушенка говяжья ",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "400 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709459960/001164_wtqtro.jpg",
+          "availability": ""
+        },
+        {
+          "id": "_cLMs7_alPw80AlrAgDJx",
+          "name": "тушенка  Pork No1 400gr",
+          "description": "тушенка свинная ",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "400",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709459986/001165_zt94kn.jpg",
+          "availability": ""
+        },
+        {
+          "id": "fIRa2NmJdQpCNb_2MIWgV",
+          "name": "гречка с говядиной Beef Meat With Buckwheat Groats 500gr",
+          "description": "гречка с говядиной",
+          "price": "0",
+          "promoPrice": "",
+          "portionSize": "500 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709460078/012309_armgy0.jpg",
+          "availability": ""
+        },
+        {
+          "id": "yuoPNfWfAhDWZ73mInMtK",
+          "name": "цейлонский чай BASILUR blak & green teas, 25 ",
+          "description": "пакетированный чай",
+          "price": "500",
+          "promoPrice": "",
+          "portionSize": "уп",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1709544391/vcfpkuswozjevvnyu26rr3pq2ox4g8pwaj6b_640x640_fill_ffffff_yg2u4t.jpg",
+          "availability": ""
+        },
+        {
+          "id": "e001Oh1iQCck8f-id949O",
+          "name": "Чай Цейлонский, крепкий  100",
+          "description": "пакетированый1 черный чай",
+          "price": "600",
+          "promoPrice": "",
+          "portionSize": "уп",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1710058972/000198_rqvuha.jpg",
+          "availability": ""
+        },
+        {
+          "id": "puaOgxJRfcZUBWwa1gUUI",
+          "name": "Ливерная колбаса / Германия",
+          "description": "ливерная колбаса с чесноком",
+          "price": "800",
+          "promoPrice": "",
+          "portionSize": "270 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1710182581/recipe_1f57770c-e45c-42dc-a3a1-2956a1a6f8ec_eosx0k.jpg"
+        },
+        {
+          "id": "7P6PvFzdFTnsrUGDxv0VP",
+          "name": "Зельц ",
+          "description": "как домашний",
+          "price": "600",
+          "promoPrice": "",
+          "portionSize": "300 г",
+          "photo": "https://res.cloudinary.com/dbfdkml1k/image/upload/v1710182654/Sunkova-tlacenka-zmensene-2019_bpbhmb.jpg",
+          "availability": ""
+        }
+      ]
+    },
+    {
+      "name": "Тестовая",
+      "items": [
+        {
+          "id": "egp4YLX3eimUxGScs-4P3",
+          "name": "Тестовый товар",
+          "description": "Описание",
+          "price": "200",
+          "promoPrice": "100",
+          "portionSize": "Тестовый",
+          "photo": "",
+          "availability": ""
+        }
+      ]
+    }
+  ]
+}
